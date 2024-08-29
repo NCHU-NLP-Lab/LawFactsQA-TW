@@ -1,0 +1,1735 @@
+[
+    {
+        "query_en": "Are foreign nationals who hold permanent residency or have naturalized to obtain Taiwanese citizenship exempt from applying for a work permit?",
+        "query_tw": "取得永久居留外國人或歸化取得我國國籍之外國人，是否不須申請工作許可？",
+        "case_id": 0,
+        "reference_law": [
+            [
+                "外國專業人才延攬及僱用法",
+                "第7條"
+            ],
+            [
+                "外國專業人才延攬及僱用法",
+                "第25條"
+            ]
+        ],
+        "reference_law_id": [
+            "1187#4",
+            "1187#5",
+            "1187#23"
+        ],
+        "ground_truth_answer": "一、依據外國專業人才延攬及僱用法第7條規定，外國專業人才、外國特定專業人才及外國高級專業人才，其本人、配偶、未成年子女及因身心障礙無法自理生活之成年子女，經許可永久居留者，在我國從事工作，不須向勞動部或教育部申請許可。因前開法令為特別法，故符合前開條件者，無須按就業服務法第51條規定申請個人工作許可。二、依據外國專業人才延攬及僱用法第25條規定，經歸化取得我國國籍且兼具外國國籍而未在我國設有戶籍，並持外國護照或我國護照入國從事專業工作或尋職者，得免申請工作許可。因前開法令為特別法，故符合前開條件者，無須按就業服務法第79條規定辦理。"
+    },
+    {
+        "query_en": "What are the qualifications and required documents for employers applying to hire individuals for Category F (arts and performing arts) work?",
+        "query_tw": "申請聘僱從事F類(藝術及演藝工作)，雇主資格及應備文件？",
+        "case_id": 1,
+        "reference_law": [
+            [
+                "外國人從事就業服務法第46條第1項第1款至第6款工作資格及審查標準",
+                "第46條"
+            ]
+        ],
+        "reference_law_id": [
+            "1343#30"
+        ],
+        "ground_truth_answer": "聘僱從事藝術及演藝工作外國人之雇主，其雇主資格應符合「外國人從事就業服務法第46條第1項第1款至第6款工作資格及審查標準」第 47 條下列各款規定之一：1.學校、公立社會教育文化機構。2.觀光旅館。3.觀光遊樂業者。4.演藝活動業者。5.文教財團法人。6.演藝團體、學術文化或藝術團體。7.出版事業者。8.電影事業者。9.無線、有線或衛星廣播電視業者。10.藝文服務業者。11.政府機關或行政法人。12.各國駐華領使館、駐華外 國機構、駐華國際組織。"
+    },
+    {
+        "query_en": "What constitutes a foreign professional?",
+        "query_tw": "何謂外國專業人員？",
+        "case_id": 2,
+        "reference_law": [
+            [
+                "就業服務法",
+                "第46條"
+            ],
+            [
+                "外國專業人才延攬及僱用法",
+                "第4條"
+            ],
+            [
+                "外國人從事就業服務法第四十六條第一項第一款至第六款工作資格及審查標準",
+                "第4條"
+            ]
+        ],
+        "reference_law_id": [
+            "766#17",
+            "766#18",
+            "766#19",
+            "1187#0",
+            "1187#1",
+            "1187#2",
+            "1343#1",
+            "1343#2"
+        ],
+        "ground_truth_answer": "外國專業人員係指依就業服務法第46條第1項第1至6款及外國專業人才延攬及僱用法第4條第4款規定，雇主聘僱外國人在中華民國境內從事以下工作：一、專門性或技術性之工作。二、華僑或外國人經政府核准投資或設立事業之主管。三、下列學校教師：（一）公立或經立案之私立大專以上校院或外國僑民學校之教師。（二）公立或已立案之私立高級中等以下學校之合格外國語文課程教師。（三）公立或已立案私立實驗高級中等學校雙語部或雙語學校之學科教師。四、依補習及進修教育法立案之短期補習班之專任教師。五、運動教練及運動員。六、宗教、藝術及演藝工作。七、具專門知識或技術，且經中央目的事業主管機關會商教育部指定依補習及進修教育法立案之短期補習班教師。"
+    },
+    {
+        "query_en": "Can individuals personally seek foreign language tutors through online tutoring platforms?",
+        "query_tw": "請問個人可否在家教網站上自行找外籍教師教授語文課程？",
+        "case_id": 3,
+        "reference_law": [
+            [
+                "就業服務法",
+                "第43條"
+            ],
+            [
+                "就業服務法",
+                "第44條"
+            ],
+            [
+                "就業服務法",
+                "第48條"
+            ]
+        ],
+        "reference_law_id": [
+            "766#17",
+            "766#20",
+            "766#21"
+        ],
+        "ground_truth_answer": "一、目前就業服務法並未開放個人申請聘僱外籍教師；另依就業服務法第43條規定：「外國人未經雇主申請許可，不得在中華民國境內工作」，違法者依第68條規定，處新臺幣3萬元以上15萬元以下罰鍰，並得限令出境，不得再於中華民國境內工作。另雇主非法容留外國人從事工作，違反就業服務法第44條規定，應依就業服務法第63條規定，處新臺幣15萬元以上75萬元以下罰鍰。二、個人若有聘僱外籍家教之需要，應與補習班簽訂承攬契約，由補習班指派教師前往任教，或尋找符合就業服務法第48條第1項第2款規定，經與本國人結婚獲准居留之外籍人士。"
+    },
+    {
+        "query_en": "Do employers still need to apply for employment permits from the authorities when hiring foreigners who hold 'working holiday' visas to Taiwan?",
+        "query_tw": "取得「度假打工」簽證來臺的外國人，雇主仍需要向本部申請聘僱許可嗎？",
+        "case_id": 4,
+        "reference_law": [
+            [
+                "雇主聘僱外國人許可及管理辦法",
+                "第4條"
+            ]
+        ],
+        "reference_law_id": [
+            "1342#2"
+        ],
+        "ground_truth_answer": "依雇主聘僱外國人許可及管理辦法第4條規定，取得「度假打工」簽證的外國人，簽證即「視同聘僱許可」，雇主不需要再向本部申請聘僱許可。"
+    },
+    {
+        "query_en": "Can cram schools assign foreign language teachers they've hired to teach at kindergartens or childcare centers?",
+        "query_tw": "補習班可否指派所聘僱之外國語文教師至幼稚園或托兒所教學？",
+        "case_id": 5,
+        "reference_law": [
+            [
+                "就業服務法",
+                "第43條"
+            ],
+            [
+                "就業服務法",
+                "第46條"
+            ],
+            [
+                "勞職規字第0940502262號"
+            ]
+        ],
+        "reference_law_id": [
+            "766#17",
+            "766#18",
+            "766#19"
+        ],
+        "ground_truth_answer": "教育部及內政部兒童局已明文禁止補習班以簽訂工作承攬契約之方式，指派所聘僱之外國語文教師至幼稚園或托兒所從事外語教學，雇主如有上開行為即違反就業服務法之規定。"
+    },
+    {
+        "query_en": "What are the weekly teaching hour regulations for foreign language teachers hired by cram schools?",
+        "query_tw": "補習班聘僱之外國語文教師每週教學時數規定？",
+        "case_id": 6,
+        "reference_law": [
+            [
+                "短期補習班聘僱外國專業人才從事教師工作資格及審查標準",
+                "第5條"
+            ]
+        ],
+        "reference_law_id": [
+            "1356#2",
+            "1356#3"
+        ],
+        "ground_truth_answer": "外國人受聘僱於第1家雇主之每週教學時數不得少於14小時，第2家以上雇主之每週教學時數不得少於6小時，外國人每週從事教學相關工作總時數不得超過32小時。"
+    },
+    {
+        "query_en": "Do cram schools need to apply for permits when arranging foreigners for trial periods, trial teaching, temporary speeches, demonstration teaching, or guidance?",
+        "query_tw": "補習班安排外國人先予試用、試教或從事臨時性演說、示範教學及指導等行為，是否須申請許可？",
+        "case_id": 7,
+        "reference_law": [
+            [
+                "就業服務法",
+                "第43條"
+            ]
+        ],
+        "reference_law_id": [
+            "766#17"
+        ],
+        "ground_truth_answer": "補習班係為招募教師需要，而令外國人從事「試教」等行為，除無學員在場之情形，均屬「提供勞務」，仍應依「就業服務法」第43條規定申請聘僱許可後始得為之。"
+    },
+    {
+        "query_en": "When a company in the electronics manufacturing and wholesale industry, registered as a foreign investment enterprise, applies for employment permits for foreign nationals serving as general managers, business managers, and technical personnel in Taiwan, which category of employment under Article 46 of the Employment Service Act should they fall into? Are there any limitations on the number of applications?",
+        "query_tw": "公司經營電子產品製造及批發業，登記為僑外投資事業，當為外國籍總經理、業務經理及技術人員辦理在臺聘僱許可申請時，其於就業服務法第46條規定中，應屬哪一種工作類別?申請員額有無限制?",
+        "case_id": 8,
+        "reference_law": [
+            [
+                "就業服務法",
+                "第46條"
+            ],
+            [
+                "外國人從事就業服務法第四十六條第一項第一款至第六款工作資格及審查標準",
+                "第38條"
+            ]
+        ],
+        "reference_law_id": [
+            "766#17",
+            "766#18",
+            "766#19",
+            "1343#25",
+            "1343#26"
+        ],
+        "ground_truth_answer": "一、依外國人從事就業服務法第46條第1項第1款至第6款工作資格及審查標準第38條規定，外國人受聘僱從事本法第46條第1項第2款規定，於華僑或外國人經政府核准投資或設立事業擔任主管，應具備下列資格之一：1.依華僑回國投資條例或外國人投資條例核准投資之公司，其華僑或外國人持有所投資事業之股份或出資額，合計超過該業之股份總數或資本總額三分之一以上之公司經理人。2.外國分公司經理人。3.經中央目的事業主管機關許可設立代表人辦事處之代表人。4.符合第六條第二項專案同意之具創新能力之新創事業，其部門副主管以上或相當等級之人員。雇主依前項第一款至第三款規定所聘僱之人數超過一人者，其外國人、雇主資格或其他資格，應符合第二章規定。二、因此若雇主所聘僱之僑外資主管人數超過1人者，應依專門性或技術性工作規定提出申請。"
+    },
+    {
+        "query_en": "What does specialized technical work among foreign professionals entail?",
+        "query_tw": "外國專業人員中的專門性技術性工作包含哪些內容?",
+        "case_id": 9,
+        "reference_law": [
+            [
+                "外國人從事就業服務法第四十六條第一項第一款至第六款工作資格及審查標準",
+                "第4條"
+            ]
+        ],
+        "reference_law_id": [
+            "1343#1",
+            "1343#2"
+        ],
+        "ground_truth_answer": "依「外國人從事就業服務法第46條第1項第1款至第6款工作資格及審查標準」第4條規定，專門性及技術性工作，指外國人受聘僱從事下列具專門知識或特殊專長、技術之工作：一、營繕工程或建築技術工作。二、交通事業工作。三、財稅金融服務工作。四、不動產經紀工作。五、移民服務工作。六、律師、專利師工作。七、技師工作。八、醫療保健工作。九、環境保護工作。十、文化、運動及休閒服務工作。十一、學術研究工作。十二、獸醫師工作。十三、製造業工作。十四、批發業工作。十五、其他經中央主管機關會商中央目的事業主管機關指定之工作。須為以下項目之一：(一)專業、科學或技術服務業之經營管理、設計、規劃或諮詢等工作。(二)餐飲業之廚師工作。(三)短期補習班廚藝教學工作。"
+    },
+    {
+        "query_en": "How should foreign-born newborns (including those born to foreign migrant workers) in Taiwan apply for foreign resident permits?",
+        "query_tw": "在臺出生之外籍新生兒(含外籍移工所生子女)，應如何辦理外僑居留證？",
+        "case_id": 10,
+        "reference_law": [
+            [
+                "入出國及移民法",
+                "第26條"
+            ]
+        ],
+        "reference_law_id": [
+            "256#39",
+            "256#40"
+        ],
+        "ground_truth_answer": "（一） 在我國出生之外國人，出生時其父或母持有外僑居留證或外僑永久居留證，應於出生之翌日起30日內，持新生兒之出生證明、2吋照片1張、父或母之外僑居留證（永久居留證）及證件規費至居留地之本署服務站辦理外僑居留證，俟取得護照後，再辦理護照號碼異動登記。（二）新生兒取得外僑居留證可申請健康保險，相關資訊請洽衛生福利部中央健康保險署，健保免付費諮詢電話：0800-030-598。（三）另依89年2月9日修正施行之「國籍法」規定，89年2月9日以後在臺出生之新生兒，父或母一方為中華民國國民者，該新生兒即取得中華民國國籍，應至戶政事務所辦理出生登記，不得辦理外僑居留證。"
+    },
+    {
+        "query_en": "If a foreign migrant worker becomes pregnant and gives birth while working in Taiwan, and the child's biological father (the spouse of the migrant worker) is also a foreign migrant worker, can the child obtain residency through the father?",
+        "query_tw": "外籍移工在臺工作期間懷孕生子，小孩之生父(移工之配偶)亦為外籍移工，其子是否能依親父親辦理居留？",
+        "case_id": 11,
+        "reference_law": [
+            [
+                "入出國及移民法",
+                "第26條"
+            ]
+        ],
+        "reference_law_id": [
+            "256#39",
+            "256#40"
+        ],
+        "ground_truth_answer": "依據入出國及移民法第26條規定，在我國出生之外國人，出生時其父或母持有外僑居留證或外僑永久居留證，應於事實發生之翌日起30日內申請外僑居留證。故外籍移工在臺出生之子女可申請外僑居留證，如係依親母親，須檢具在臺出生子女之出生證明；如係依親父親，須檢具父母雙方經我駐外館處驗證結婚證明及在臺出生子女之出生證明，方得申請外僑居留證。"
+    },
+    {
+        "query_en": "Can a lost foreign resident permit be applied for reissue?",
+        "query_tw": "遺失外僑居留證可以申請補發嗎？",
+        "case_id": 12,
+        "reference_law": [
+            [
+                "入出國及移民法施行細則",
+                "第38條"
+            ],
+            [
+                "入出國及移民法施行細則",
+                "第39條"
+            ]
+        ],
+        "reference_law_id": [
+            "1314#15"
+        ],
+        "ground_truth_answer": "請備相關證明文件，至居留地服務站申請補發即可，每件規費500元。"
+    },
+    {
+        "query_en": "Does a foreign spouse of a Taiwanese national with household registration in Taiwan need to apply for a work permit to work in Taiwan?",
+        "query_tw": "在台有戶籍國民之外籍配偶是否須申請工作證始得在台工作？",
+        "case_id": 13,
+        "reference_law": [
+            [
+                "就業服務法",
+                "第48條"
+            ]
+        ],
+        "reference_law_id": [
+            "766#20",
+            "766#21"
+        ],
+        "ground_truth_answer": "依就業服務法第48條規定，與在中華民國境內設有戶籍之國民結婚領有外僑居留證者，不須申請工作許可（請洽勞委會職訓局電話：02-85902567），其居留證便視同有工作權利。"
+    },
+    {
+        "query_en": "If a foreigner's work permit is valid until May 115, but their foreign resident permit expires in April 113 due to passport validity, and they have already obtained a new passport and need to change their residential address, can they simultaneously extend the validity of the foreign resident permit until May 115?",
+        "query_tw": "外籍人士工作許可至115年5月，因護照效期之故，其外僑居留證到期日為113年4月。民眾目前已取得新護照並同時需要變更居住地址，是否能同時延期外僑居留證期間至115年5月？",
+        "case_id": 14,
+        "reference_law": [
+            [
+                "外國人停留居留及永久居留辦法",
+                "第7條"
+            ],
+            [
+                "入出國及移民法",
+                "第31條"
+            ]
+        ],
+        "reference_law_id": [
+            "1319#4",
+            "256#41",
+            "256#42",
+            "256#43"
+        ],
+        "ground_truth_answer": "外籍人士如因護照效期不足，外僑居留證僅能延期至護照效期截止日，惟不得逾工作許可效期。如更新護照後，得延滿其居留效期，不需另外繳費，惟仍不得逾工作許可效期。（二）入出國及移民法第31條第6項規定：外國人於居留期間內，變更居留地址或服務處所時，應於事實發生之翌日起算30日內，向移民署辦理變更登記。申請人如有地址變更情形，得於辦理居留證延期同時，持租賃契約或其他證明文件，於變更地址30日內向服務站申請地址變更。"
+    },
+    {
+        "query_en": "How can a foreigner apply for a stay extension?",
+        "query_tw": "外國人如何申請停留延期？",
+        "case_id": 15,
+        "reference_law": [
+            [
+                "外國人停留居留及永久居留辦法",
+                "第3條"
+            ]
+        ],
+        "reference_law_id": [
+            "1319#0",
+            "1319#1"
+        ],
+        "ground_truth_answer": "（一）申請時應備文件：1.申請表1份。2.護照正本及影本1份。3.本次入境(或境內取得之)簽證正本及影本一份。4.相關證明文件(詳如下列連結網址)。（二）注意事項：1.因故須延長停留，應於停留期限屆滿前15日內方得提出申請。2.所持停留簽證之停留期限為60日以上，且未加註不准延期(NO EXTENSION)。3.持落地簽證或以免簽證方式入國者，不得申請延期。4.每次延期不得逾原簽證許可停留之期間，總計停留期間不得逾180日。5.為瞭解申請人延期事由，移民署得要求申請人提供其他文件補充說明。"
+    },
+    {
+        "query_en": "How many working days does it take to process a foreign resident permit?",
+        "query_tw": "辦理外僑居留證需要幾個工作天？",
+        "case_id": 16,
+        "reference_law": [
+            [
+                "外國人申請居留及延期居留或變更居留原因送件須知"
+            ]
+        ],
+        "reference_law_id": [
+            "1398#9"
+        ],
+        "ground_truth_answer": "10個工作天內取件（不含郵寄時間）。"
+    },
+    {
+        "query_en": "After marrying a Taiwanese national, how many years does it take for a foreign spouse to obtain citizenship?",
+        "query_tw": "外籍配偶結婚來台後，請問要多少年才能取得國籍？",
+        "case_id": 17,
+        "reference_law": [
+            [
+                "國籍法",
+                "第4條"
+            ]
+        ],
+        "reference_law_id": [
+            "183#1",
+            "183#2"
+        ],
+        "ground_truth_answer": "外籍配偶取得國籍整個流程至少4年。"
+    },
+    {
+        "query_en": "Can dual citizens of overseas Chinese descent holding Taiwanese passports request to have their entry and exit dates stamped on their foreign passport when leaving the country?",
+        "query_tw": "雙重國籍華僑持我國護照入國，得否於出國時要求於其外國護照上補蓋入出國查驗日期章戳？",
+        "case_id": 18,
+        "reference_law": [
+            [
+                "雙重國籍者入出境臺灣注意事項"
+            ]
+        ],
+        "reference_law_id": [
+            "1401#0",
+            "1401#1"
+        ],
+        "ground_truth_answer": "為便利雙重國籍華僑順利返回僑居地，本署補蓋入出國查驗章戳規定如下：一、我國及外國護照上性別、出生日期、出生地等基本資料相同及相片相符。二、在國內停留期間，須符合其所持外國護照有效簽證之停留期限，無簽證者須符合免簽證國家停留期限之規定。三、自不同機場或港口入、出國，如未逾越外國護照停留期限，得請求補蓋當次入、出國查驗章戳。但逾越停留期限者，僅得補蓋當次出國查驗章戳。"
+    },
+    {
+        "query_en": "If an applicant has been married to two Taiwanese nationals successively, and both times the purpose of residence in Taiwan was 'family reunion,' and if the total duration of residency meets the 'legally continuous residence of 5 years' condition after combining the periods before and after marriage, can they apply for permanent residency based on their foreign spouse's status as a foreign national with household registration in Taiwan?",
+        "query_tw": "申請人先後與2名居住臺灣地區設有戶籍國民結婚，前後兩次在華居留目的同為「依親」，如合併前後2次之居留期間，已達「合法連續居住5年」條件者，可否以與居住臺灣地區設有戶籍國民之外國籍配偶之身分，提出申請永久居住資格？",
+        "case_id": 19,
+        "reference_law": [
+            [
+                "入出國及移民法",
+                "第31條"
+            ]
+        ],
+        "reference_law_id": [
+            "256#41",
+            "256#42",
+            "256#43"
+        ],
+        "ground_truth_answer": "（一）依入出國及移民法第31條第4項規定，外國人於居留期間，居留原因消失，廢止居留許可，並註銷外僑居留證。爰外配與國民離婚後，依法註銷外僑居留證，則無第2次婚姻之居留期間合併問題。（二）外配與居住臺灣地區設有戶籍國民離婚後，取得在臺灣地區設有戶籍未成年親生子女監護權，得准予繼續居留，期間與第二次婚姻之居留期間，已達「合法連續居留5年」條件者，得提出永久居留申請。"
+    },
+    {
+        "query_en": "How should a foreigner handle departure procedures if they have overstayed their residence in Taiwan?",
+        "query_tw": "外籍人士在台逾期居（停）留，應如何辦理出國手續？",
+        "case_id": 20,
+        "reference_law": [
+            [
+                "入出國及移民法",
+                "第15條"
+            ],
+            [
+                "入出國及移民法",
+                "第74條"
+            ]
+        ],
+        "reference_law_id": [
+            "256#20",
+            "256#21",
+            "256#84",
+            "256#85"
+        ],
+        "ground_truth_answer": "逾期居（停）留90日以下，得在國境事務大隊辦理罰鍰及出國手續；逾期91日以上者（未滿14歲者，不在此限），須由專勤隊調查並製作筆錄後，由居（停）留地服務站辦理罰鍰及出國手續。（一）應備文件：1、申請表1份。2、護照及簽證。3、相關證明文件。4、繳納罰鍰。（二）注意事項：外國人逾期居（停）留者，其裁罰標準如下：1、逾期10日以下者，處新台幣2,000元罰鍰。2、逾期11日以上，30日以下者，處新台幣4,000元罰鍰。3、逾期31日以上，60日以下者，處新台幣6,000元罰鍰。4、逾期61日以上，90日以下者，處新台幣8,000元罰鍰。5、逾期91日以上者，處新台幣10,000元罰鍰。6、未滿18歲者減半，未滿14歲者不罰。"
+    },
+    {
+        "query_en": "What are the requirements for foreign nationals applying for naturalization as Republic of China citizens, and how can they apply for a national ID card?",
+        "query_tw": "外國人申請加入中華民國國籍的要求是什麼，以及他們如何申請國民身分證？",
+        "case_id": 21,
+        "reference_law": [
+            [
+                "國籍法",
+                "第3條"
+            ],
+            [
+                "國籍法",
+                "第4條"
+            ],
+            [
+                "國籍法",
+                "第5條"
+            ],
+            [
+                "國籍法",
+                "第6條"
+            ],
+            [
+                "國籍法",
+                "第7條"
+            ]
+        ],
+        "reference_law_id": [
+            "183#0",
+            "183#1",
+            "183#2",
+            "183#3"
+        ],
+        "ground_truth_answer": "一、外國人具備下列要件，得向住所地戶政事務所申請歸化： 1.在我國領域內，每年合計有183日以上合法居留之事實繼續5年（外籍配偶3年）以上。 2.依中華民國法律及其本國法均有行為能力。 3.無不良素行，且無警察刑事紀錄證明之刑事案件紀錄。 4.有相當之財產或專業技能，足以自立，或生活保障無虞之證明。 5.具有我國基本語言能力及國民權利義務基本常識等條件。 二、取得國籍後，欲請領國民身分證，尚須辦理下列事項： 1.自許可歸化之日起，1年內提出喪失原有國籍證明送內政部核備。 2.向本部入出國及移民署辦理申請臺灣地區居留、定居事宜。 3.經核准取得臺灣地區定居證時，即可向住所地戶政事務所辦理初設戶籍登記，同時請領國民身分證。"
+    },
+    {
+        "query_en": "Which nationalities of foreigners are allowed to purchase residential properties in Taiwan?",
+        "query_tw": "哪些國籍的外國人可在我國購買住宅用不動產",
+        "case_id": 22,
+        "reference_law": [
+            [
+                "土地法",
+                "第17條"
+            ],
+            [
+                "土地法",
+                "第18條"
+            ],
+            [
+                "土地法",
+                "第19條"
+            ],
+            [
+                "土地法",
+                "第20條"
+            ]
+        ],
+        "reference_law_id": [
+            "209#3",
+            "209#4",
+            "209#5",
+            "209#6"
+        ],
+        "ground_truth_answer": "一、外國人申請取得我國不動產，係由外國人檢附相關文件，向土地所在地地政事務所申請，再由該地政事務所送請該管直轄市或縣(市)政府依土地法第17條至第20條規定審查。其重點摘要如下： （一）應基於平等互惠原則：外國人在中華民國取得或設定土地權利，以依條約或其本國法律，中華民國人民得在該國享受同樣權利者為限(土地法第18條)。 （二）土地類別限制：凡林地、漁地、狩獵地、鹽地、礦地、水源地、要塞軍備區域及領域邊境之土地，禁止移轉、設定負擔或租賃予外國人 (土地法第17條) 。 （三）取得土地之用途：外國人基於自用、投資或公益為目的，得取得住所、營業場所、辦公場所、商店、工廠、教堂、醫院、外僑子弟學校、使領館、公益團體之會所、墳場及經我國相關部會核准有助於重大建設、整體經濟或農牧經營投資之土地。 二、為方便外國人瞭解哪些國家的人可在我國購置不動產，本部已彙整「外國人在我國取得或設定土地權利互惠國家一覽表」，提供各界參考。該一覽表及外國人取得土地權利相關規定，可於本部地政司網站（網址：https://www.land.moi.gov.tw）之「線上服務」→「下載專區」→「表單下載」→分類選「地權類」搜尋→「外國人取得土地權利申請」項下查詢並下載參閱。"
+    },
+    {
+        "query_en": "When applying for voluntary naturalization as a Republic of China citizen, what kind of proof of livelihood is required?",
+        "query_tw": "外國人申請自願歸化國籍，須提憑何種生活保障證明？",
+        "case_id": 23,
+        "reference_law": [
+            [
+                "國籍法施行細則",
+                "第7條"
+            ]
+        ],
+        "reference_law_id": [
+            "1340#4",
+            "1340#5",
+            "1340#6"
+        ],
+        "ground_truth_answer": "依國籍法施行細則第7條之規定： 1.最近1年於國內平均每月收入逾勞動部公告基本工資2倍者。 2.國內之動產及不動產估價總值逾新臺幣500萬元者。 3.我國政府機關核發之專門職業及技術人員或技能檢定證明文件。 4.入出國及移民法第25條第3項第2款所定為我國所需高級專業人才，經許可在臺灣地區永久居留。 5.其他經內政部認定者。 上揭第1、2、3項文件包含申請人及其在國內設有戶籍之配偶、配偶之父母、父母，但第3項之文件應再出具足以保障申請人在國內生活無虞之擔保證明書（申請人具備者除外）。"
+    },
+    {
+        "query_en": "How can foreigners (including foreign spouses) apply to lift the ban on entry according to the 'Regulations Governing the Permission for Foreigners to Enter the Country'?",
+        "query_tw": "外國人(含外籍配偶)依「禁止外國人入國作業規定」如何申請不予禁止入國？",
+        "case_id": 24,
+        "reference_law": [
+            [
+                "禁止外國人入國作業規定",
+                "12"
+            ],
+            [
+                "禁止外國人入國作業規定",
+                "13"
+            ],
+            [
+                "禁止外國人入國作業規定",
+                "16"
+            ]
+        ],
+        "reference_law_id": [
+            "1324#9",
+            "1324#10",
+            "1324#11",
+            "1324#12",
+            "1324#13"
+        ],
+        "ground_truth_answer": "一、外國人得依「禁止外國人入國作業規定」，檢具相關資料向入出國及移民署管制科申請不予禁止入國相關事宜 (一)申請書：自行勾選適用選項，於第2頁親自簽名並留聯絡電話。 (二)證明文件：參考申請書勾選項目之應檢附文件。 (三)其他文件：請參考申請書第三點說明事項。 二、申請人得至本署各縣市服務站親自送件或郵寄本署(臺北市中正區廣州街15號)辦理。 三、來臺簽證事宜應洽詢外交部領事事務局辦理。 四、本案對象不包含大陸地區人民、香港或澳門地區居民。 詳情可參考下列網址： https://www.immigration.gov.tw/5385/12162/12197/180138/"
+    },
+    {
+        "query_en": "Which types of land usage can foreigners directly apply to purchase through the local land administration office where the land is located?",
+        "query_tw": "外國人得直接向土地所在地地政事務所申請購買哪些用途土地？",
+        "case_id": 25,
+        "reference_law": [
+            [
+                "土地法",
+                "第19條"
+            ]
+        ],
+        "reference_law_id": [
+            "209#4",
+            "209#5"
+        ],
+        "ground_truth_answer": "外國人為供自用、投資或公益之目的使用，取得下列各款用途之土地，無需先經各中央目的事業主管機關核准，請直接向地政事務所申辦：一、住宅。二、營業處所、辦公場所、商店及工廠。三、教堂。四、醫院。五、外僑子弟學校。六、使領館及公益團體之會所。七、墳場。"
+    },
+    {
+        "query_en": "How can foreigners apply for a residency extension while staying in Taiwan?",
+        "query_tw": "外國人在臺停留，如何申請延期",
+        "case_id": 26,
+        "reference_law": [
+            [
+                "外國人停留居留及永久居留辦法",
+                "第3條"
+            ]
+        ],
+        "reference_law_id": [
+            "1319#0",
+            "1319#1"
+        ],
+        "ground_truth_answer": "申請程序： 持60天以上之停留簽證入境，且未加蓋不准延期，有事由需繼續停留者，於停留期限屆滿前15日內，檢具相關證明文件向移民署服務站申請。 應備文件： 一、申請表1份。 二、護照正本及影本一份。 三、本次入境(或境內取得之)簽證正本及影本一份 四、相關證明文件： (一)探親者： 　1、被探親屬之中華民國國民身分證、戶口名簿、臺灣地區或外僑居留證、外僑永久居留證或就業金卡。 　2、親屬關係證明或其他足資證明親屬關係文件（如結婚證書、具父母資料之出生證明等）。 (二)研習國語文者： 　1、大專校院華語文中心或短期補習班之註冊證明。 　2、出席紀錄(申請延期之前三個月上課缺席時數達總上課時數四分之一以上者不得延期)。 (三)從事宗教活動： 　1、原邀請之國內宗教團體出具一個月內之邀請函或相關證明文件。 　2、原邀請之國內宗教團體立案證明書影本(須加蓋宗教團體及代表人章戳)。 (四)代訓之外籍員工： 1、目的事業主管機關之許可證明(正本及影本一份，正本驗畢後歸還)。 2、國內代訓單位出具一個月內開立之在職證明。 (五)應聘者及從事工商業務者： 1、目的事業主管機關之許可證明(正本及影本一份，正本驗畢後歸還)。 2、國內公司(單位)出具一個月內開立之在職證明或相關證明文件。 (六)洽商： 1、國內公司出具之保證說明函(須加蓋公司大小章)。 2、國內公司營利事業登記證。 (七)度假打工：檢附國內居住地之證明文件。 (八)外國特定專業人才及外國高級專業人才之直系尊親屬： 1、該直系尊親屬獲外交部核發一年效期、多次入國、停留期限六個月及未加註限制不准延期或其他限制之停留簽證。 2、外國特定專業人才及外國高級專業人才之外僑居留證、外僑永久居留證或就業金卡。 3、親屬關係證明。 (九)其他事由：檢附與本次入境(或境內取得之)簽證目的相符之相關證明文件。 (十)符合「外國人停留居留及永久居留辦法」第三條第二項但書各款情形之一者：檢附相關證明文件。"
+    },
+    {
+        "query_en": "If the father is a foreigner and the mother is a Taiwanese national, can their children born in Taiwan be registered directly?",
+        "query_tw": "父為外國人母為國人，子女在台出生，可否直接設籍？",
+        "case_id": 27,
+        "reference_law": [
+            [
+                "國籍法",
+                "第2條"
+            ],
+            [
+                "戶籍法",
+                "第15條"
+            ]
+        ],
+        "reference_law_id": [
+            "183#0",
+            "185#4"
+        ],
+        "ground_truth_answer": "一、子女為89年2月10日後在台出生者，應依戶籍法規定，直接向戶政事務所辦理出生登記。 二、子女為69年2月10日至89年2月9日間在台出生者，可向本署申請定居，領取定居證持憑向戶政事務所辦理初設戶籍登記。 三、子女為69年2月9日前出生者，依國籍法為外國人，不具我國國籍，自無法直接設籍。"
+    },
+    {
+        "query_en": "Can foreigners participate in rallies and parades? (provided by Taipei City Police Department)",
+        "query_tw": "外國人是否可以參加集會遊行？",
+        "case_id": 28,
+        "reference_law": [
+            [
+                "入出國及移民法",
+                "第29條"
+            ]
+        ],
+        "reference_law_id": [
+            "256#41"
+        ],
+        "ground_truth_answer": "「集會遊行法」並無明文規定限制外國人參加本國的集會遊行，惟依「入出國及移民法」第29條規定，外國人短期停留旅客不得從事與來臺目的不符之活動，如有違反者，主管機關依法可以遞解出境。"
+    },
+    {
+        "query_en": "If a foreigner marries in Taiwan or works long-term in Taiwan and wants to apply for a Republic of China ID card, what documents do they need to prepare?",
+        "query_tw": "外國人如果結婚來臺灣或在臺灣長期工作，想要辦理中華民國身分證，要準備哪些文件才能辦理？",
+        "case_id": 29,
+        "reference_law": [
+            [
+                "國籍法",
+                "第3條"
+            ],
+            [
+                "國籍法",
+                "第4條"
+            ],
+            [
+                "國籍法",
+                "第5條"
+            ],
+            [
+                "國籍法",
+                "第6條"
+            ],
+            [
+                "國籍法",
+                "第7條"
+            ],
+            [
+                "國籍法施行細則",
+                "第2條"
+            ],
+            [
+                "國籍法施行細則",
+                "第8條"
+            ]
+        ],
+        "reference_law_id": [
+            "183#0",
+            "183#1",
+            "183#2",
+            "183#3",
+            "1340#0",
+            "1340#6",
+            "1340#7",
+            "1340#8",
+            "1340#9"
+        ],
+        "ground_truth_answer": "外國人如果想要辦理中華民國身分證，一定要合法居留連續3年或5年，每年居住183日以上。其申辦流程為：一、先依國籍法規定向國內住所地戶政事務所申請歸化中華民國國籍，須備妥下列資料：(一)有效之外僑居留證或外僑永久居留證。(二)原屬國政府核發之警察紀錄證明或其他相關證明文件（申請歸化國籍者，係我國國民之配偶，外僑居留證居留事由為「依親」者，免附）；（申請人曾為我國人配偶，其婚姻關係消滅後無出境紀錄者，免附）。(三)相當之財產或專業技能，足以自立，或生活保障無虞之證明（為中華民國國民配偶身分或已取得外僑永久居留證者，免附）。(四)歸化取得我國國籍者基本語言能力及國民權利義務基本常識認定標準第3條所定之證明文件。(五)相片1張（符合新式國民身分證相片規格）。(六) 證書費規費新臺幣1200元（以郵政匯票繳交，受款人：內政部）；亦可使用電腦透過網際網路進入財金公司「e-Bill全國繳費網」或在具有「行動金融卡」之行動裝置下載「e-Bill全國繳費網APP」完成繳費。二、經許可歸化取得中華民國國籍證明後，再向內政部移民署申請「臺灣地區居留證」，且於內政部許可歸化之日起，1年內提出喪失原有國籍證明，屆期未提出者，除經外交部查證因原屬國法律或行政程序限制屬實，致使不能於期限內提出喪失國籍證明者，得申請展延時限外，應撤銷其歸化許可。三、居留滿一定期間後(已提出喪失原有國籍證明)，續向內政部移民署申請「臺灣地區定居證」，俟取得定居證後即可向設籍地戶政事務所申請初設戶籍登記及初領國民身分證。"
+    },
+    {
+        "query_en": "What laws might be violated if a foreigner works for someone else without permission?",
+        "query_tw": "外國人未經許可在臺工作，可能違反何種法令？",
+        "case_id": 30,
+        "reference_law": [
+            [
+                "就業服務法",
+                "第45條"
+            ],
+            [
+                "就業服務法",
+                "第64條"
+            ]
+        ],
+        "reference_law_id": [
+            "766#17",
+            "766#38"
+        ],
+        "ground_truth_answer": "一、 依就業服務法第45條規定：「任何人不得媒介外國人非法為他人工作。」 二、同法第64條規定：「違反第四十五條規定者，處新臺幣十萬元以上五十萬元以下罰鍰。五年內再違反者，處一年以下有期徒刑、拘役或科或併科新臺幣六十萬元以下罰金。意圖營利而違反第四十五條規定者，處三年以下有期徒刑、拘役或科或併科新臺幣一百二十萬元以下罰金。……」"
+    },
+    {
+        "query_en": "What laws might an employer violate if they hire foreigners without permission?",
+        "query_tw": "僱主如果未經許可聘請外國人可能違反了哪些法律？",
+        "case_id": 31,
+        "reference_law": [
+            [
+                "就業服務法",
+                "第57條"
+            ],
+            [
+                "就業服務法",
+                "第63條"
+            ],
+            [
+                "就業服務法",
+                "第75條"
+            ]
+        ],
+        "reference_law_id": [
+            "766#33",
+            "766#37",
+            "766#44"
+        ],
+        "ground_truth_answer": "依就業服務法第57條、第63條及第75條規定，雇主不得聘僱未經許可、許可失效或他人所申請聘僱之外國人，違者，當地勞政主管機關處新臺幣15萬元以上75萬元以下罰鍰。5年內再違反者，處3年以下有期徒刑、拘役或科或併科新臺幣120萬元以下罰金。"
+    },
+    {
+        "query_en": "I am a foreigner, what should I do if my employer retains my passport and resident permit?",
+        "query_tw": "我是外國人，請問老闆扣留我的護照、居留證時該怎麼辦?",
+        "case_id": 32,
+        "reference_law": [
+            [
+                "就業服務法",
+                "第5條"
+            ],
+            [
+                "就業服務法",
+                "第57條"
+            ]
+        ],
+        "reference_law_id": [
+            "766#1",
+            "766#2",
+            "766#33"
+        ],
+        "ground_truth_answer": "可向當地勞工局反應或撥打「1955」勞工諮詢申訴專線申訴。"
+    },
+    {
+        "query_en": "Can foreigners request compensation from the government on the grounds of intentional or negligent violation of rights by Immigration officials?",
+        "query_tw": "外國人可不可以因移民署公務員執行職務時故意或過失不法侵害權利為理由請求國家賠償？?",
+        "case_id": 33,
+        "reference_law": [
+            [
+                "國家賠償法",
+                "第15條"
+            ]
+        ],
+        "reference_law_id": [
+            "503#5"
+        ],
+        "ground_truth_answer": "我國對外國人之國家賠償責任依照國家賠償法第十五條規定係採相互保證之平等互惠原則，不以我國與外國有外交關係為限，也就是依照條約或被害的外國人之本國法令或慣例，我國人民可以在該國與該國人民同樣享有請求國家賠償的權利時，該外國人才能請求國家賠償。反之，如該國不承認國家賠償責任，或雖有國家賠償的法令而不適用於我國人民，則該外國人就不能適用本法請求國家賠償。相關解釋可以參照法務部76年1月7日法律決字第115號函釋、89年5月29日法律字第018701號函釋。"
+    },
+    {
+        "query_en": "Can foreigners apply for a Taiwan visa if their passport has less than 6 months validity?",
+        "query_tw": "外籍人士所持護照效期不足6個月，可不可以申請來臺簽證？?",
+        "case_id": 34,
+        "reference_law": [
+            [
+                "外國護照簽證條例施行細則",
+                "第2條"
+            ]
+        ],
+        "reference_law_id": [
+            "1341#0"
+        ],
+        "ground_truth_answer": "除美國護照及日本護照外（護照效期僅須長於擬停留日期即可），申請來臺簽證者的護照效期應為6個月以上，倘有緊急事由（如急難救助），請就近向我國駐外館處或領務局簽證組洽詢。"
+    },
+    {
+        "query_en": "When should overtime pay be disbursed each month?",
+        "query_tw": "每月的加班費應該要在什麼時候給付？",
+        "case_id": 35,
+        "reference_law": [
+            [
+                "勞動基準法",
+                "第24條"
+            ]
+        ],
+        "reference_law_id": [
+            "758#15",
+            "758#16"
+        ],
+        "ground_truth_answer": "雇主延長勞工工作時間或經徵得勞工同意於休假日（包含國定假日及已排定之特別休假）工作者，其延長工作時間之工資或休假日出勤工作加給之工資，應依勞動基準法第24條或第39條規定所列標準計給之，並應於事實發生後最近之工資給付日或當月份發給。"
+    },
+    {
+        "query_en": "What are the circumstances under which foreigners, mainland Chinese nationals, and residents of Hong Kong and Macau are not temporarily accommodated?",
+        "query_tw": "外國人、大陸地區人民及香港、澳門居民，得不暫予收容的情形有哪些？",
+        "case_id": 36,
+        "reference_law": [
+            [
+                "入出國及移民法",
+                "第38條-1"
+            ]
+        ],
+        "reference_law_id": [
+            "256#52"
+        ],
+        "ground_truth_answer": "外國人雖受強制驅逐出國處分，且具有收容原因之一，惟依入出國及移民法第38條之1規定，外國人有下列情形之一者，得不暫予收容：（一） 精神障礙或罹患疾病，因收容將影響其治療或有危害生命之虞。（二） 懷胎五個月以上或生產、流產未滿二個月。（三） 未滿十二歲之兒童。（四） 罹患傳染病防治法第三條所定傳染病。（五） 衰老或身心障礙致不能自理生活。（六） 經司法或其他機關通知限制出國。上開規定，於臺灣地區與大陸地區人民關係條例第18條之1第10項及香港澳門關係條例第14條之1第8項準用之。"
+    },
+    {
+        "query_en": "After a foreign spouse divorces, how can they obtain an ID card?",
+        "query_tw": "外籍配偶離婚後，要如何取得身分證？",
+        "case_id": 37,
+        "reference_law": [
+            [
+                "入出國及移民法",
+                "第31條"
+            ]
+        ],
+        "reference_law_id": [
+            "256#41",
+            "256#42",
+            "256#43"
+        ],
+        "ground_truth_answer": "外籍配偶離婚後，因喪失依親的居留事由，原則上無法在臺灣繼續居留，也無法歸化我國取得身分證，但如有特殊情形，例如：對無行為能力或限制行為能力之中華民國國籍子女，有扶養事實、行使負擔權利義務、會面交往或為中華民國國民之監護人或輔助人等情事，則可以新事由向內政部移民署申請在臺灣繼續居留。舉例來說，外籍配偶離婚後，對無行為能力或限制行為能力之中華民國國籍子女有扶養事實、有監護權或會面交往者，如要申請取得國民身分證，要先依國籍法規定向國內住所地戶政事務所申請國籍歸化，並應於內政部許可歸化之日起，1年內提出喪失原有國籍證明。屆期未提出者，除經外交部查證因原屬國法律或行政程序限制屬實，致使不能於期限內提出喪失國籍證明者，得申請展延時限外，應撤銷其歸化許可。一、欲申請歸化中華民國國籍應具備下列各款要件：(一)在中華民國領域內，每年合計有183日以上合法居留之事實繼續3年以上。(二)依中華民國法律及其本國法均有行為能力。(三)無不良素行，且無警察刑事紀錄證明之刑事案件紀錄。(四)有相當之財產或專業技能，足以自立，或生活保障無虞。(五)具備我國基本語言能力及國民權利義務基本常識。二、申請歸化國籍需填具申請書並檢附下列文件：(一)有相當之財產或專業技能，足以自立，或生活保障無虞之證明文件。(二)具備我國基本語言能力及國民權利義務基本常識之證明文件。(三)有效之外僑居留證或外僑永久居留證。(四)原屬國警察紀錄證明書。（外籍配偶如原以國人配偶身分申請「依親」居留，已繳驗原屬國警察紀錄證明文件，離婚後迄申請時，無出境紀錄，得准予免繳附原屬國警察紀錄證明書。）(五)最近2年內所拍攝正面彩色脫帽相片1張（同國民身分證相片規格，背面書寫姓名）。(六)證書規費新臺幣1,200元。(請以郵政匯票繳交，受款人：內政部)。三、歸化我國國籍經許可後，應向內政部移民署申請「臺灣地區居留證」，於1年內提出喪失原有國籍證明後，並在臺灣居留滿一定期間後，始能續向內政部移民署申請「臺灣地區定居證」，俟取得定居證後，方可在欲設籍地戶政事務所申請初設戶籍登記及初領國民身分證。四、初設戶籍登記所需文件為：(一)戶口名簿(單獨立戶者免附，但須提憑遷入單獨立戶之房屋所有權證明等相關文件)。(二)最近2年內所拍攝正面彩色脫帽相片1張或數位相片(規格請詳見內政部戶政司網站。(三)初領戶口名簿規費新臺幣30元；初領國民身分證，規費新臺幣50元。"
+    },
+    {
+        "query_en": "If a mainland Chinese spouse, who is on a family reunion residence permit, has their Taiwanese spouse pass away, can they continue to reside in Taiwan? Can they eventually settle and obtain household registration?",
+        "query_tw": "大陸配偶依親居留期間臺灣配偶過世，可否繼續居留？將來可否定居設籍？",
+        "case_id": 38,
+        "reference_law": [
+            [
+                "大陸地區人民在臺灣地區依親居留長期居留或定居許可辦法",
+                "第14條"
+            ],
+            [
+                "大陸地區人民在臺灣地區依親居留長期居留或定居許可辦法",
+                "第26條"
+            ]
+        ],
+        "reference_law_id": [
+            "1335#5",
+            "1335#6",
+            "1335#7",
+            "1335#26",
+            "1335#27",
+            "1335#28"
+        ],
+        "ground_truth_answer": "陸籍配偶已許可在臺依親居留或長期居留者，如有依親對象死亡且未再婚之情形，依「大陸地區人民在臺灣地區依親居留長期居留或定居許可辦法」第14條第2項第1款第1目、第26條第2項第1款第1目規定，不撤銷或廢止其居留許可；並得繼續申請下一階段之長期居留或定居。"
+    },
+    {
+        "query_en": "If a mainland Chinese national and a Taiwanese citizen marry in Taiwan and have underage children who are already registered as household residents in Taiwan, can the mainland Chinese spouse continue to apply for settlement if the Taiwanese spouse passes away?",
+        "query_tw": "大陸地區人民與臺灣地區人民結婚，兩人在臺育有已設籍之未成年子女；如臺灣配偶死亡，陸籍配偶是否可繼續申請定居？",
+        "case_id": 39,
+        "reference_law": [
+            [
+                "臺灣地區與大陸地區人民關係條例",
+                "第16條"
+            ]
+        ],
+        "reference_law_id": [
+            "797#21",
+            "797#22",
+            "797#23"
+        ],
+        "ground_truth_answer": "依規定，已許可在臺依親（長期）居留者，有依親對象死亡且未再婚之情形者，不撤銷或廢止其依親（長期）居留許可。另大陸地區人民其臺灣地區之配偶死亡，須在臺灣地區照顧未成年之親生子女者，依據「臺灣地區與大陸地區人民關係條例」第16條第2項第2款規定，得申請在臺灣地區定居。"
+    },
+    {
+        "query_en": "If a Taiwanese woman gives birth to a child in mainland China out of wedlock with a mainland Chinese man, how can she apply for the child to settle in Taiwan?",
+        "query_tw": "臺灣女子與大陸男子在大陸未婚生子，如何申請子女在臺定居？",
+        "case_id": 40,
+        "reference_law": [
+            [
+                "大陸地區人民申請來臺定居送件須知—十二歲以下親生子女"
+            ]
+        ],
+        "reference_law_id": [
+            "1404#0",
+            "1404#1",
+            "1404#2",
+            "1404#3",
+            "1404#4",
+            "1404#5",
+            "1404#6",
+            "1404#7"
+        ],
+        "ground_truth_answer": "大陸地區人民為臺灣地區人民之12歲以下直系血親，可逕向本署申請定居，請參閱本署網站「大陸地區人民申請來臺定居送件須知-十二歲以下親生子女」，如於大陸地區出生11個月內未在大陸設籍，得以無戶籍國民方式回臺定居，送件須知請參閱本署網站（網址：www.immigration.gov.tw）臺灣地區無戶籍國民定居送件須知。"
+    },
+    {
+        "query_en": "How can Taiwanese citizens adopt mainland Chinese nationals as their foster children?",
+        "query_tw": "臺灣地區人民如何收養大陸地區人民為養子女？",
+        "case_id": 41,
+        "reference_law": [
+            [
+                "民法",
+                "第1079條"
+            ],
+            [
+                "臺灣地區與大陸地區人民關係條例",
+                "第65條"
+            ]
+        ],
+        "reference_law_id": [
+            "81#335",
+            "81#336",
+            "81#337",
+            "797#71"
+        ],
+        "ground_truth_answer": "收養大陸地區人民為養子女，除須符合民法收養之規定外，「臺灣地區與大陸地區人民關係條例」第65條亦針對本身已有子女或養子女、同時收養二人以上為養子女等情形，訂有法院應不予認可之規定。（註：依司法院釋字第712號解釋，自102年10月4日起，臺灣人民收養其配偶之大陸子女，不受同條例第65條第1款「已有子女或養子女者」之限制。）收養人應持全戶戶籍謄本、身分證、印章，向臺灣戶籍所在地地方法院公證處或民間公證人辦理在臺無子女之宣誓認證書，向大陸公證處辦理收養公證書。依民法規定收養子女應聲請法院認可，因此收養人、被收養人及未成年被收養人之法定代理人原應到場向法院表達收養之合意，但由於被收養人及其法定代理人不能以辦理收養為由申請來臺，故宜委託收養人以外之臺灣人民代向法院及戶政事務所辦理與收養有關之事宜。故除在大陸辦理收養公證書外，亦應辦理委託公證書，再持該等公證書向海基會申請驗證。公證書經海基會驗證後，向收養人戶籍所在地地方法院聲請裁定認可，法院將審酌相關法令及收養人、被收養人及送養人之實際狀況，為認可或駁回之裁定。收養一經法院裁定認可之後，則收養人應向戶籍所在地戶政事務所辦理收養登記，收養程序始完成。"
+    },
+    {
+        "query_en": "What is the process for mainland Chinese spouses to apply for settlement, naturalization, and obtaining an ID card?",
+        "query_tw": "大陸配偶申請定居、入籍、取得身分證之流程為何?",
+        "case_id": 42,
+        "reference_law": [
+            [
+                "臺灣地區與大陸地區人民關係條例",
+                "第17條"
+            ]
+        ],
+        "reference_law_id": [
+            "797#23",
+            "797#24",
+            "797#25"
+        ],
+        "ground_truth_answer": "一、大陸地區人民為臺灣地區人民之配偶，經許可在臺灣地區長期居留且符合臺灣地區與大陸地區人民關係條例第17條第5項規定者（即每年在臺灣地區合法居留連續2年且每年居住逾183日、品行端正無犯罪紀錄、提出喪失原籍證明、符合國家利益），即得申請在臺灣地區定居，經審查會通過後，印定居證，發函通知申請人持長期居留證及大陸居民往來臺灣地區通行證至原申請之服務站換領定居證，持憑定居證至戶政事務所辦理設籍及領取身分證，並向原大陸居住地申辦註銷戶籍，作成公證書後經海基會驗證，再送交本署。二、應備文件及相關規定請參閱申請須知網頁。"
+    },
+    {
+        "query_en": "If a mainland Chinese national has obtained an ID card in Taiwan, can they apply for their parents to settle in Taiwan?",
+        "query_tw": "大陸地區人民在臺已取得身分證，是否可申請父母來臺定居？",
+        "case_id": 43,
+        "reference_law": [
+            [
+                "臺灣地區與大陸地區人民關係條例",
+                "第16條"
+            ]
+        ],
+        "reference_law_id": [
+            "797#23",
+            "797#24",
+            "797#25"
+        ],
+        "ground_truth_answer": "依「臺灣地區與大陸地區人民關係條例」第16條第2項第1款規定，大陸地區人民為臺灣地區人民之直系血親，年齡在70歲以上者，得申請在臺灣地區定居。故大陸地區人民在臺設籍後，可申請70歲以上之父母來臺定居，每年數額60人。"
+    },
+    {
+        "query_en": "What are the conditions for applying for a family reunion residence permit?",
+        "query_tw": "何種條件可以申請依親居留證？",
+        "case_id": 44,
+        "reference_law": [
+            [
+                "臺灣地區與大陸地區人民關係條例",
+                "第17條"
+            ]
+        ],
+        "reference_law_id": [
+            "797#21",
+            "797#22",
+            "797#23"
+        ],
+        "ground_truth_answer": "依據「臺灣地區與大陸地區人民關係條例」第17條第1項規定，大陸地區人民為臺灣地區人民之配偶，得依法令申請進入臺灣地區團聚，經許可入境後，得申請在臺灣地區依親居留證。"
+    },
+    {
+        "query_en": "If a Taiwanese child is born in mainland China this year and needs to return to Taiwan to register for household registration, what procedures should be followed, and what relevant documents need to be prepared?",
+        "query_tw": "國人小孩今年在大陸出生,要回台灣報戶口，該如何辦理手續及需準備什麼相關證件？",
+        "case_id": 45,
+        "reference_law": [
+            [
+                "大陸地區人民申請來臺定居送件須知—十二歲以下親生子女"
+            ]
+        ],
+        "reference_law_id": [
+            "1404#0",
+            "1404#1",
+            "1404#2",
+            "1404#3",
+            "1404#4",
+            "1404#5",
+            "1404#6",
+            "1404#7"
+        ],
+        "ground_truth_answer": "大陸地區人民為臺灣地區人民之12歲以下直系血親，可逕向本署申請定居，請參閱本署網站「大陸地區人民申請來臺定居送件須知-十二歲以下親生子女」，如於大陸地區出生11個月內未在大陸設籍，得以無戶籍國民方式回臺定居，送件須知請參閱本署網站（網址：www.immigration.gov.tw）臺灣地區無戶籍國民定居送件須知。"
+    },
+    {
+        "query_en": "Can groups approved by the National Immigration Agency to engage in cross-border marriage matchmaking charge fees to the parties involved?",
+        "query_tw": "經移民署許可從事跨國（境）婚姻媒合之團體，可以向媒合當事人收取費用嗎？",
+        "case_id": 46,
+        "reference_law": [
+            [
+                "入出國及移民法",
+                "第58條"
+            ],
+            [
+                "入出國及移民法施行細則",
+                "第32條"
+            ]
+        ],
+        "reference_law_id": [
+            "256#71",
+            "256#72",
+            "1314#14"
+        ],
+        "ground_truth_answer": "1.依97年8月1日修正施行之入出國及移民法第58條規定，跨國（境）婚姻媒合不得要求或期約報酬。另該法施行細則第32條明定，「報酬」係指因居間報告結婚機會或介紹婚姻對象之行為，而向受媒合當事人約定或請求給付之對價，依法不得收取。2.除上述法令禁止收取之費用外，財團法人及非營利社團法人從事跨國（境）婚姻媒合之收費項目及金額，應報移民署核備後始得為之，有變更時亦同。3.收費項目及金額資訊必須透明化，並揭示於服務地點明顯位置，使媒合當事人可透過公開資訊，因應本身需求選擇服務。4.人民團體經費來源（如入會費、常年會費、事業費、會員捐款）繳納數額及方式，應提經會員（會員代表）大會通過，並報經主管機關核備後行之。"
+    },
+    {
+        "query_en": "Is it illegal to publish advertisements for cross-border dating?",
+        "query_tw": "刊登跨國（境）交友廣告算是違法嗎？",
+        "case_id": 47,
+        "reference_law": [
+            [
+                "入出國及移民法",
+                "第58條"
+            ]
+        ],
+        "reference_law_id": [
+            "256#71",
+            "256#72"
+        ],
+        "ground_truth_answer": "依97年8月1日修正施行之入出國及移民法第58條第3項規定，任何人不得於廣告物、出版品、廣播、電視、電子訊號、電腦網路或以其他使公眾得知之方法，散布、播送或刊登跨國（境）婚姻媒合廣告。如交友廣告內容意圖居間報告結婚機會或介紹婚姻對象，仍屬違法，依規定將處新臺幣10萬元以上50萬元以下罰鍰，並得按次連續處罰。"
+    },
+    {
+        "query_en": "When is the application period for the New Residents Development Fund?",
+        "query_tw": "新住民發展基金的申請時間為何？",
+        "case_id": 48,
+        "reference_law": [
+            [
+                "新住民發展基金補助作業要點",
+                "6"
+            ]
+        ],
+        "reference_law_id": [
+            "1405#3",
+            "1405#4",
+            "1405#5"
+        ],
+        "ground_truth_answer": "依據「新住民發展基金補助作業要點」第6點規定，申請補助案件採事前審核原則，受補助對象應依下列規定提出申請：（一）年度持續執行之一般性案件，應依年度計畫，於前一年七月二十日前提出申請。（二）亮點計畫案及一般性案件，計畫開始執行日期，應距當次申請截止日二個月以上，於當年度一月、三月、五月、七月、九月及十一月之二十日前提出申請。（三）專案補助案件得隨時提出申請。（四）研究計畫案應於前一年度七月二十日前提出申請。但基於政策性或急迫性研究案，不在此限。（五）媒體宣導補助案，應於前一年度七月二十日前提出申請為原則。但基於政策性或急迫性宣導案，不在此限。前項申請補助案件，應以網際網路至內政部移民署新住民發展基金申請補助作業及管理系統（以下簡稱本系統）（網址：http://apply.immigration.gov.tw/）登錄申請，填表登錄完成後，應列印送件憑證連同單位申請函，以掛號郵寄至本會，始完成申請程序；依第七點第二款及第三款規定由直轄市、縣（市）政府層轉者，應列印送件憑證連同單位申請函，以掛號郵寄至直轄市、縣（市）政府，始完成申請程序；向本會申請者，申請截止日以本會收文日為準，依第七點第二款及第三款規定由直轄市、縣（市）政府層轉者，以直轄市、縣（市）政府收文日為準。前項申請截止日為星期日、國定假日或其他休息日者，以該日之次日為申請截止日；申請截止日為星期六者，以其次星期一上午為申請截止日；逾期申請者，不予受理。"
+    },
+    {
+        "query_en": "Who are the beneficiaries of the New Residents Development Fund?",
+        "query_tw": "新住民發展基金的服務對象為何？",
+        "case_id": 49,
+        "reference_law": [
+            [
+                "新住民發展基金補助作業要點",
+                "2"
+            ]
+        ],
+        "reference_law_id": [
+            "1405#0"
+        ],
+        "ground_truth_answer": "依據「新住民發展基金補助作業要點」第2點規定，本基金的服務對象包括：（一）臺灣地區人民之配偶為未入籍之外國人、無國籍人、大陸地區人民及香港或澳門居民，或已入籍為我國國民而仍有照顧輔導需要者；（二）前款服務對象之子女及共同生活之親屬。多元文化及宣導活動之服務對象，不以前項規定對象為限。"
+    },
+    {
+        "query_en": "If residents of Hong Kong and Macau apply for temporary entry permits online, can they extend their stay in Taiwan if special circumstances arise?",
+        "query_tw": "香港、澳門居民以網際網路申請臨時入境停留者，倘若因特殊情形需要，可否延長在臺停留時間?",
+        "case_id": 50,
+        "reference_law": [
+            [
+                "香港澳門居民進入臺灣地區及居留定居許可辦法",
+                "第12條"
+            ]
+        ],
+        "reference_law_id": [
+            "1339#1",
+            "1339#2",
+            "1339#8",
+            "1339#9"
+        ],
+        "ground_truth_answer": "香港澳門居民於臨時入境停留期間屆滿前，有香港澳門居民進入臺灣地區及居留定居許可辦法第12條第1項各款情形之一者，得依該辦法第7條規定申請入出境許可證。"
+    },
+    {
+        "query_en": "What is mediation?",
+        "query_tw": "請問什麼是調解？",
+        "case_id": 51,
+        "reference_law": [
+            [
+                "民事訴訟法",
+                "第403條"
+            ],
+            [
+                "民事訴訟法",
+                "第404條"
+            ]
+        ],
+        "reference_law_id": [
+            "88#155",
+            "88#156",
+            "88#157"
+        ],
+        "ground_truth_answer": "就是發生紛爭的雙方當事人，在調解委員的協調下，互相讓步，尋求一個大家都可以的解決方案，現行法上，可分為法院的調解與非法院的調解(例如:鄉鎮市調解委員會的調解)。法院的調解，依照民事訴訟法第403條及第404條之規定，可分為強制調解事件及任意調解事件，若屬於強制調解事件，依規定在起訴前一定要經過調解，只有在調解不成立之後，才會進入法院的訴訟程序。若屬於任意調解事件，則當事人可以選擇在起訴前聲請法院調解，或是不經過調解直接進入訴訟程序。"
+    },
+    {
+        "query_en": "What is transfer mediation?",
+        "query_tw": "什麼是移付調解？",
+        "case_id": 52,
+        "reference_law": [
+            [
+                "民事訴訟法",
+                "第420條"
+            ]
+        ],
+        "reference_law_id": [
+            "88#166",
+            "88#167"
+        ],
+        "ground_truth_answer": "一、發生法律上的糾紛，不一定要以判決解決，能夠透過調解、和解，不失解決問題的辦法，比判決還能達到息爭止訟，讓社會更加和諧。二、為擴大調解功能，增加雙方當事人程序選擇的機會，民事訴訟法第420條之1特別規定在第一審法院審理中的民事事件，可以經由兩造的合意，將案子移付調解，因此在案件終結以前，不論案件進行到何種程度，當事人雙方都可以合意將案件另外移付調解。可以由原來的承辦法官進行調解，也可以透過法院委任的調解委員進行調解。三、調解成立後和確定判決有同一的效果，如果對方沒有履行調解內容，可以直接聲請法院強制執行。若因此而調解成立，原告還可以聲請退還已繳裁判費的三分之二。四、至於如果仍然沒有辦法調解成立，案件就會回到原來的程序繼續辦理。此外，第二審訴訟繫屬中，如兩造同意亦得移付調解。"
+    },
+    {
+        "query_en": "If mediation fails, will the statements made by both parties in front of the mediation committee be considered as evidence in court when making judgments?",
+        "query_tw": "如果調解沒有結果，雙方在調解委員面前所說的話，會被法院當作判決時的判斷依據嗎？",
+        "case_id": 53,
+        "reference_law": [
+            [
+                "民事訴訟法",
+                "第422條"
+            ]
+        ],
+        "reference_law_id": [
+            "88#168"
+        ],
+        "ground_truth_answer": "調解時之陳述，不會作為判決時判斷的依據調解委員對於因為辦理調解事件，而知道當事人職務上、業務上秘密，或其他涉及個人隱私的事項，依法負有保密義務。且依照民事訴訟法第422條的規定，調解程序中的陳述或是讓步，不得做為法院裁判時判斷的依據。所以，當事人可以在調解委員面前放心的陳述。"
+    },
+    {
+        "query_en": "Which civil cases are considered mandatory mediation cases?",
+        "query_tw": "哪些民事事件是屬於強制調解事件？",
+        "case_id": 54,
+        "reference_law": [
+            [
+                "民事訴訟法",
+                "第403條"
+            ],
+            [
+                "民事訴訟法",
+                "第406條"
+            ]
+        ],
+        "reference_law_id": [
+            "88#155",
+            "88#156",
+            "88#157",
+            "88#158",
+            "88#159"
+        ],
+        "ground_truth_answer": "如果當事人起訴的案件是屬於以下所列之強制調解事件，依法就必須先經調解，調解不成立時，再進入審判程序，除非該事件有後述例外之情形，才可以例外不先經調解程序，直接進入審判程序。一、強制調解事件：（民事訴訟法第403條參照）（一）不動產所有人或地上權人或其他利用不動產之人相互間因相鄰關係發生爭執者。（二）因定不動產之界線或設置界標發生爭執者。（三）不動產共有人間因共有物之管理、處分或分割發生爭執者。（四）建築物區分所有人或利用人相互間因建築物或其共同部分之管理發生爭執者。（五）因增加或減免不動產之租金或地租發生爭執者。（六）因定地上權之期間、範圍、地租發生爭執者。（七）因道路交通事故或醫療糾紛發生爭執者。（八）雇用人與受雇人間因僱傭契約發生爭執者。（九）合夥人間或隱名合夥人與出名營業人間因合夥發生爭執者。（十）配偶、直系親屬、四親等內之旁系血親、三親等內之旁系姻親、家長或家屬相互間因財產權發生爭執者。（十一）其他因財產權發生爭執，其標的之金額或價額在新台幣五十萬元以下者。二、例外：前述強制調解事件，如有以下情形者，可例外不先經調解程序，直接進入審判程序（民事訴訟法第403條、第406條第1項）。（一）依法律關係之性質，當事人之狀況或其他情事可認為不能調解或顯無調解必要或調解顯無成立之望者。（二）經其他法定調解機關調解未成立者。（三）因票據發生爭執者。（四）係提起反訴者。（五）送達於他造之通知書，應為公示送達或於外國為送達者。（六）金融機構因消費借貸契約或信用卡契約有所請求者。"
+    },
+    {
+        "query_en": "If you disagree with a court decision and wish to file an appeal, what should you do?",
+        "query_tw": "若不服法院判決，想提起上訴，該怎麼辦？",
+        "case_id": 55,
+        "reference_law": [
+            [
+                "民事訴訟法",
+                "第77條-16"
+            ]
+        ],
+        "reference_law_id": [
+            "88#31"
+        ],
+        "ground_truth_answer": "民事訴訟之上訴當事人若不服法院的判決，依法可以提起上訴救濟，但在上訴前，請注意下列3件事一、從收到判決書之日起算，有無超過20天？超過20天就不能上訴，但應當事人所住地區扣除在途期間。二、各法院訴訟輔導科備有上訴狀的範本，可以參考。另外本院網站亦有例稿可供當事人下載使用。上訴狀一定要載明下列事項（一）上訴人、被上訴人之姓名、住所、聯絡電話。（二）原審案號。（三）不服判決，提起上訴。（四）希望上級審法院如何判決？（亦即上訴之聲明）（五）上訴的理由。三、須繳納上訴裁判費（民事訴訟法第77條之16），但上訴人有律師為訴訟代理人，提起上訴時未繳納裁判費時，法院得不命補正，逕行駁回上訴。"
+    },
+    {
+        "query_en": "Do you need to pay court fees when filing a civil lawsuit or an appeal? What are the consequences if court fees are not paid on time or are paid insufficiently?",
+        "query_tw": "提起民事訴訟或上訴時是否要繳交裁判費？裁判費逾期未繳納或繳納不足時，會產生何種效果?",
+        "case_id": 56,
+        "reference_law": [
+            [
+                "民事訴訟法",
+                "第77條-13~27"
+            ],
+            [
+                "民事訴訟法",
+                "第78條"
+            ]
+        ],
+        "reference_law_id": [
+            "88#30",
+            "88#31",
+            "88#32",
+            "88#33",
+            "88#34",
+            "88#35",
+            "88#36",
+            "88#37",
+            "88#38"
+        ],
+        "ground_truth_answer": "一、提起民事訴訟或上訴時是否要繳交裁判費？在我國民事訴訟程序，關於法院之裁判，係採裁判有償主義，故不論當事人於起訴、上訴或為聲請時，應向法院預納裁判費，有關裁判費之計算及徵收，是依據民事訴訟法第77條之13至27之規定，而此項費用之預納則是當事人起訴、上訴或聲請時，必須具備之程式。二、裁判費逾期未繳納或繳納不足時，會產生何種效果？（一）如果當事人裁判費未繳納或繳納不足時，審判長會定期間通知當事人補繳，若當事人未於所定的期間內補繳時，法院就會以當事人起訴、上訴或聲請為不合法，而以裁定駁回。（二）不過原告所繳納之裁判費，性質上係屬預納，依照民事訴訟法第78條之規定，除法律另有規定外，原則上是由敗訴之當事人負擔。"
+    },
+    {
+        "query_en": "Do you have to hire a lawyer when filing a civil lawsuit?",
+        "query_tw": "提起民事訴訟是否一定要請律師？",
+        "case_id": 57,
+        "reference_law": [
+            [
+                "民事訴訟法",
+                "第68條-1"
+            ],
+            [
+                "民事訴訟法",
+                "第466條-1"
+            ]
+        ],
+        "reference_law_id": [
+            "88#106",
+            "88#196",
+            "88#197"
+        ],
+        "ground_truth_answer": "一、提起民事訴訟或上訴時是否要繳交裁判費？在我國民事訴訟程序，關於法院之裁判，係採裁判有償主義，故不論當事人於起訴、上訴或為聲請時，應向法院預納裁判費，有關裁判費之計算及徵收，是依據民事訴訟法第77條之13至27之規定，而此項費用之預納則是當事人起訴、上訴或聲請時，必須具備之程式。二、裁判費逾期未繳納或繳納不足時，會產生何種效果？（一）如果當事人裁判費未繳納或繳納不足時，審判長會定期間通知當事人補繳，若當事人未於所定的期間內補繳時，法院就會以當事人起訴、上訴或聲請為不合法，而以裁定駁回。（二）不過原告所繳納之裁判費，性質上係屬預納，依照民事訴訟法第78條之規定，除法律另有規定外，原則上是由敗訴之當事人負擔。"
+    },
+    {
+        "query_en": "Can witnesses refuse to attend court after receiving a court summons?",
+        "query_tw": "證人收到法院通知書，可否不到庭？",
+        "case_id": 58,
+        "reference_law": [
+            [
+                "民事訴訟法",
+                "第302條"
+            ],
+            [
+                "民事訴訟法",
+                "第303條"
+            ]
+        ],
+        "reference_law_id": [
+            "88#118",
+            "88#119"
+        ],
+        "ground_truth_answer": "證人有到場之義務一、依民事訴訟法第302條之規定，除法律別有規定外，不問何人，對於他人的訴訟，都有為證人之義務。二、因此若證人受合法之通知，無正當理由而不到場者，依同法第303條第1項之規定法院得以裁定處新台幣3萬元以下罰鍰。若證人已受到裁罰後，經再次通知，而仍然不到場者，法院依同條第2項得再處以新台幣6萬元以下罰鍰，並得加以拘提。三、因此若受法院通知到庭作證時，依法是不得無正當理由而不到庭。"
+    },
+    {
+        "query_en": "Can witnesses request payment for appearing in court?",
+        "query_tw": "證人到法院作證可否請求費用？",
+        "case_id": 59,
+        "reference_law": [
+            [
+                "民事訴訟法",
+                "第323條"
+            ],
+            [
+                "民事訴訟法",
+                "第77條-23"
+            ]
+        ],
+        "reference_law_id": [
+            "88#35",
+            "88#36",
+            "88#126"
+        ],
+        "ground_truth_answer": "證人到場可請領日費及旅費一、證人若依照法院通知到庭作證，依照民事訴訟法第323條第1項之規定，可以請求法定之日費及旅費。但證人若是被拘提或無正當理由拒絕具結或證言者，則不可請求此項費用。又依同條第2項之規定，此項費用的請求，必須在開庭訊問完畢後10日內為之。且證人所需之旅費，亦得請求預行酌給。二、詳細規定可以參考「法院辦理民事事件證人鑑定人日費旅費及鑑定費支給標準」。三、但必須加以說明的是，此項費用依照民事訴訟法第77條之23之規定，係屬於進行訴訟所必要之費用，依法應由法院命當事人預納，最後再由敗訴之當事人負擔。"
+    },
+    {
+        "query_en": "In what cases would the court appoint a public defender or lawyer to defend the defendant even if they did not hire a lawyer?",
+        "query_tw": "什麼案件，被告雖然沒有請律師，法院仍會指定公設辯護人或律師為被告辯護？",
+        "case_id": 60,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第31條"
+            ]
+        ],
+        "reference_law_id": [
+            "112#8",
+            "112#9",
+            "112#10"
+        ],
+        "ground_truth_answer": "指定辯護人偵查中的羈押審查程序，如果被告未經選任辯護人，審判長應指定公辯護人或律師為被告辯護。但等候指定辯護人逾四小時未到場，並且經被告主動請求訊問者，不在此限。如果被告所選任的辯護人無正當理由而不到庭，為避免延宕羈押審查程序的進行，審判長亦得指定公設辯護人或律師為被告辯護。被告所涉之案件，如果是屬於最輕本刑為三年以上有期徒刑或高等法院管轄第一審的案件，或被告本身因為身心障礙，致無法完全陳述案情，或具原住民身分經依通常程序起訴或審判，或被告為低收入戶或中低收入戶而向法院請指定時，法院應該要指定公設辯護人或律師為被告辯護。另外，雖然是其他審判的案件，如果法官認為案件有必要，也可以主動來指定辯護。"
+    },
+    {
+        "query_en": "On June 21, 2023, the President promulgated the amendment to Article 376 of the Code of Criminal Procedure. How should cases that were previously eligible for appeal to the third instance be handled after the amendment?",
+        "query_tw": "112年6月21日總統公布修正刑事訴訟法第376條，修法後原得上訴於第三審之案件，應如何處理？",
+        "case_id": 61,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第376條"
+            ]
+        ],
+        "reference_law_id": [
+            "112#185",
+            "112#186"
+        ],
+        "ground_truth_answer": "刑事訴訟法第376條經總統於112年6月21日公布，於同年月23日施行。本次修正通過之刑事訴訟法第376條施行前，原得上訴於第三審之案件，已繫屬於法院者，仍依施行前之法定程序終結之。"
+    },
+    {
+        "query_en": "On June 21, 2023, the President promulgated the amendment to Article 284-1 of the Code of Criminal Procedure. How should cases that were originally subject to collegial adjudication in the first instance be handled after the amendment?",
+        "query_tw": "112年6月21日總統公布修正刑事訴訟法第284條之1，修法後原本第一審行合議審判之案件，應如何處理？",
+        "case_id": 62,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第284條"
+            ]
+        ],
+        "reference_law_id": [
+            "112#159",
+            "112#160"
+        ],
+        "ground_truth_answer": "修法後原本第一審行合議審判案件之處理刑事訴訟法第284條之1經總統於112年6月21日公布，於同年月23日施行。本次修正通過之刑事訴訟法第284條之1施行前，第一審原行合議審判之案件，仍依施行前之法定程序終結之。"
+    },
+    {
+        "query_en": "Do all cases in the first instance require a joint trial?",
+        "query_tw": "第一審的案件都要合議審判嗎？",
+        "case_id": 63,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第284條"
+            ],
+            [
+                "刑事訴訟法",
+                "第376條"
+            ]
+        ],
+        "reference_law_id": [
+            "112#159",
+            "112#160",
+            "112#185",
+            "112#186"
+        ],
+        "ground_truth_answer": "第一審的案件都要合議審判嗎？由於第一審距離案件發生的時間最接近，相關證人對於案情的記憶較清晰，這個時候比較容易把事實查清楚，所以要建立堅實的第一審。因此，除「簡式審判程序」、「簡易程序」、「協商程序」及第284條之1第1項第1款至第8款所列之罪之案件外，第一審均要採行「合議制」，由三位法官組成的合議庭共同來審判，以強化第一審的審判功能，讓第一審法官更能投注心力在案情較為重大複雜案件之審判工作，對於司法資源將可以作更合理、有效的分配。但傷害罪、助勢聚眾鬥毆罪、詐欺罪及與之有裁判上一罪關係之提領詐欺所得款項之洗錢等犯罪，如法院認為案情繁雜或有特殊情形，得於第一次審判期日前，經聽取當事人、辯護人、代理人及輔佐人之意見後，行合議審判。"
+    },
+    {
+        "query_en": "Can a case be prosecuted again for the same offense if the decision not to prosecute or the suspension of prosecution has been finalized or expired without revocation?",
+        "query_tw": "經不起訴處分已確定或緩起訴處分期滿未經撤銷者，對於同一案件是否可再行起訴？",
+        "case_id": 64,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第260條"
+            ]
+        ],
+        "reference_law_id": [
+            "112#150"
+        ],
+        "ground_truth_answer": "經不起訴處分已確定或緩起訴處分期滿未經撤銷者，對於同一案件是否可再行起訴？1、依刑事訴訟法第260條第1項規定須有下列情形之一，才可以對同一案件再行起訴：(1)發現新事實或新證據（是指檢察官偵查中已經存在或成立而未及調查斟酌，及其後始存在或成立的事實、證據）。(2)有刑事訴訟法第420條第1項第1款、第2款、第4款或第5款所定得為再審原因之情形。2、告訴人（告發人）欲以上述二款原因請求檢察官再行起訴時，應向原偵查之地方檢察署為之。"
+    },
+    {
+        "query_en": "Can a ruling by the court to dismiss a request for trial initiation be appealed again?",
+        "query_tw": "對於抗告法院就聲請提審駁回之裁定，可否再抗告？",
+        "case_id": 65,
+        "reference_law": [
+            [
+                "提審法",
+                "第10條-3"
+            ]
+        ],
+        "reference_law_id": [
+            "118#4",
+            "118#5"
+        ],
+        "ground_truth_answer": "為避免程序延滯，對於抗告法院就聲請提審駁回之裁定，不得再抗告。"
+    },
+    {
+        "query_en": "What are the examples of cases where a request for trial initiation may be dismissed?",
+        "query_tw": "聲請提審得裁定駁回之事例為何？",
+        "case_id": 66,
+        "reference_law": [
+            [
+                "提審法",
+                "第5條-1"
+            ]
+        ],
+        "reference_law_id": [
+            "118#1",
+            "118#2"
+        ],
+        "ground_truth_answer": "經法院逮捕、拘禁，例如審判中經法院拘提到案，因已符合法官保留原則，自無提審之必要。依其他法律規定得聲請即時由法院審查者，例如入出國及移民法依司法院釋字第708 號解釋之意旨完成立法修正後即屬之。被逮捕、拘禁人已回復人身自由者，例如已經檢察官具保、責付及限制住居。被逮捕、拘禁人已死亡者，係指遭逮捕、拘禁後死亡而言；如在逮捕、拘禁前即已死亡，則應屬「無逮捕、拘禁事實」之情形。經法院裁判而剝奪人身自由者，例如依各審級法院之判決、裁定（含已確定及未確定）或處分所為之逮捕、拘禁，因已符合法官保留原則，自無提審之必要。無逮捕、拘禁事實者，係指自始未遭逮捕、拘禁而言，不包括曾遭逮捕、拘禁後已回復自由者。例如聲請人僅是經檢察官傳喚到庭，並無逮捕、拘禁之情事，即屬之。"
+    },
+    {
+        "query_en": "Should the court only examine the legality of the arrest or detention in handling a request for trial initiation, or should it also consider its necessity?",
+        "query_tw": "法院受理提審之聲請，應僅審查逮捕、拘禁之合法性，或應及於其必要性？",
+        "case_id": 67,
+        "reference_law": [
+            [
+                "提審法",
+                "第8條-1"
+            ]
+        ],
+        "reference_law_id": [
+            "118#4"
+        ],
+        "ground_truth_answer": "法院關於提審聲請之審查，僅應審查逮捕、拘禁程序之合法性，不涉入本案之原因事實，亦不及於逮捕、拘禁之必要性。"
+    },
+    {
+        "query_en": "How can one become an assistant in a criminal case?",
+        "query_tw": "如何才可以成為刑事案件的輔佐人？",
+        "case_id": 68,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第35條"
+            ]
+        ],
+        "reference_law_id": [
+            "112#14"
+        ],
+        "ground_truth_answer": "被告或自訴人的配偶、直系或三親等內旁系血親或家長、家屬或被告的法定代理人在起訴後，可以向法院用書狀或於審判期日用言詞陳明為被告或自訴人的輔佐人，在法院陳述意見。"
+    },
+    {
+        "query_en": "Is there any exception to the principle of non-reasoning for cases where the application for trial initiation is rejected by the court based on the circumstances specified in Article 5, Paragraph 1, Subparagraphs of the Criminal Procedure Code?",
+        "query_tw": "聲請提審遭法院以第5條第1項但書各款情形駁回者，有無一事不再理原則之適用？",
+        "case_id": 69,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第5條第1項"
+            ]
+        ],
+        "reference_law_id": [
+            "112#1"
+        ],
+        "ground_truth_answer": "依提審法第5 條第1 項但書各款駁回者，因屬程序上之裁判，不具實體之確定力，故無一事不再理原則之適用。"
+    },
+    {
+        "query_en": "A defense attorney can be chosen when the defendant needs defense or assistance in the criminal proceedings.",
+        "query_tw": "什麼時候可以選任辯護人？",
+        "case_id": 70,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第27條"
+            ]
+        ],
+        "reference_law_id": [
+            "112#7",
+            "112#8"
+        ],
+        "ground_truth_answer": "被告在偵查中或審判中，隨時都可以選任辯護人。犯罪嫌疑人受司法警察官或司法警察調查時，也可以選任辯護人。被告或犯罪嫌疑人的法定代理人、配偶、直系或三親等內旁系血親或家長、家屬，可以獨立為被告或犯罪嫌疑人選任辯護人。"
+    },
+    {
+        "query_en": "What is the distinction between 'deprivation of personal liberty' and 'restriction of personal liberty'? Can a person whose personal liberty is restricted apply for judicial relief?",
+        "query_tw": "「人身自由剝奪」與「人身自由限制」二者區別之界限為何？人身自由受限制者得否聲請提審救濟？",
+        "case_id": 71,
+        "reference_law": [
+            [
+                "提審法",
+                "第1條第1項"
+            ]
+        ],
+        "reference_law_id": [
+            "118#0"
+        ],
+        "ground_truth_answer": "一、「人身自由剝奪」與「人身自由限制」二者區別之界限為何？「人身自由之剝奪」與「人身自由之限制」同為以違反當事人意思之強制方法，干預當事人之行動自由，兩者程度上之區別在於干預強度及時間長短。人身自由之剝奪：指違反當事人之意思，將人拘束於特定、有限制空間之謂，包括完全排除身體之活動、限制停留在特定處所，例如羈押、收容、管收、刑罰執行等。只要人身自由已達被剝奪狀態，均可聲請提審救濟。人身自由之限制（狹義）：尚未達空間限制，僅是移動自由的限制，並非全面、而是部分地限制自由，例如限制出境、盤查所為之短暫攔阻。二、人身自由受限制者得否聲請提審救濟？限制出境（出海）、限制住居或其他相類似之處分，某程度亦屬拘束一部分的人身自由，但未將當事人拘束在封閉處所，與外界尚有接觸聯繫，未達到剝奪人身自由之程度。人身自由之限制需有法律明確授權依據，但因尚未達被剝奪狀態，並非聲請提審之對象。"
+    },
+    {
+        "query_en": "If the application for judicial relief is rejected, can an appeal be made?",
+        "query_tw": "聲請提審被駁回，可否聲明不服？",
+        "case_id": 72,
+        "reference_law": [
+            [
+                "提審法",
+                "第10條第1項"
+            ]
+        ],
+        "reference_law_id": [
+            "118#4",
+            "118#5"
+        ],
+        "ground_truth_answer": "法院依提審法第5 條第1 項各款事由裁定駁回，或依第9 條第1 項經審查後認為應予逮捕、拘禁而裁定駁回時，聲請人或受裁定人（非聲請人之被逮捕、拘禁人）均得提起抗告救濟，以符合有權利即有救濟之法理。"
+    },
+    {
+        "query_en": "Is the application for judicial relief premised on 'illegal arrest and detention'?",
+        "query_tw": "聲請提審是否以「非法逮捕拘禁」為前提？",
+        "case_id": 73,
+        "reference_law": [
+            [
+                "提審法",
+                "第1條第1項"
+            ],
+            [
+                "中華民國憲法",
+                "第8條第2項"
+            ]
+        ],
+        "reference_law_id": [
+            "118#0",
+            "0#0",
+            "0#1"
+        ],
+        "ground_truth_answer": "憲法第8條第2項僅規定：「人民因犯罪嫌疑被逮捕拘禁時，.....本人或他人亦得聲請該管法院，於二十四小時內向逮捕之機關提審。」並未以「非法逮捕拘禁」為聲請提審之前提，亦即犯罪嫌疑人一遭法院以外之機關逮捕拘禁時，不問是否有「非法」逮捕拘禁之客觀事實，即得向該管法院聲請提審，無「合法」與「非法」逮捕拘禁之分；蓋未經該管法院之審問調查，實無從為合法與否之認定。"
+    },
+    {
+        "query_en": "Can individuals other than those who have been arrested or detained apply for judicial relief? How is the scope of 'other individuals' defined?",
+        "query_tw": "被逮捕、拘禁人以外之「他人」亦得聲請提審，所謂「他人」，如何界定其範圍？",
+        "case_id": 74,
+        "reference_law": [
+            [
+                "提審法",
+                "第1條第1項"
+            ],
+            [
+                "憲法",
+                "第8條第2項"
+            ]
+        ],
+        "reference_law_id": [
+            "118#0",
+            "0#0",
+            "0#1"
+        ],
+        "ground_truth_answer": "聲請提審之人，不限於被逮捕、拘禁之本人，即被逮捕、拘禁人以外之他人亦得為之，與憲法第8 條第2 項所規定相同，蓋本人既被逮捕或拘禁，難以行使其提審請求權，故許他人亦得行使，以期保護之周密。"
+    },
+    {
+        "query_en": "What are the various avenues for prosecuting a defendant in criminal cases?",
+        "query_tw": "透過訴訟追究被告犯罪的途徑有幾種？",
+        "case_id": 75,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第232條"
+            ],
+            [
+                "刑事訴訟法",
+                "第240條"
+            ],
+            [
+                "刑事訴訟法",
+                "第241條"
+            ],
+            [
+                "刑事訴訟法",
+                "第319條"
+            ]
+        ],
+        "reference_law_id": [
+            "112#132",
+            "112#135",
+            "112#172"
+        ],
+        "ground_truth_answer": "追究被告犯罪的途徑，犯罪的被害人可以向檢察官、司法警察官提出告訴，也可以委任律師向法院提起自訴。被害人或其他有告訴權以外之第三人，或公務員因執行職務知有犯罪嫌疑，也可以向偵查機關申告犯罪事實。"
+    },
+    {
+        "query_en": "If the plaintiff or victim of a criminal case disagrees with the court's judgment, how should they appeal?",
+        "query_tw": "刑事案件之告訴人或被害人不服法院之判決，應如何提起上訴？",
+        "case_id": 76,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第344條"
+            ],
+            [
+                "刑事訴訟法",
+                "第349條"
+            ]
+        ],
+        "reference_law_id": [
+            "112#178",
+            "112#179"
+        ],
+        "ground_truth_answer": "告訴人或被害人對地方法院或高等法院所為之判決不服時，得具備對原判決不服之理由，請求檢察官上訴（要注意可以上訴的期間只有20天，而且這20天的上訴期間，是以檢察官收受判決正本的日期起算，而不是從被害人或告訴人收到判決以後起算），不得直接向原判決法院提起上訴。"
+    },
+    {
+        "query_en": "What are the remedies available to the plaintiff if they disagree with the prosecutor's decision not to prosecute or to temporarily suspend prosecution?",
+        "query_tw": "告訴人如不服檢察官之不起訴處分或緩起訴處分之救濟方式",
+        "case_id": 77,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第256條"
+            ]
+        ],
+        "reference_law_id": [
+            "112#144",
+            "112#145",
+            "112#146"
+        ],
+        "ground_truth_answer": "依刑事訴訟法第256條第1項規定，告訴人接受不起訴或緩起訴處分書後，得於10日內以書狀敘述不服之理由，經原檢察官向直接上級檢察署檢察長或檢察總長聲請再議。"
+    },
+    {
+        "query_en": "Is it the case that withdrawing the lawsuit by the victim in a criminal case resolves the matter?",
+        "query_tw": "刑案是否被害人撤回告訴就沒事？",
+        "case_id": 78,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第238條"
+            ]
+        ],
+        "reference_law_id": [
+            "112#135"
+        ],
+        "ground_truth_answer": "刑事案件得區分為告訴乃論及非告訴乃論之罪，告訴乃論之罪，因只單純侵害被害人個人法益，故尊重被害人對加害人的控訴意願，如被害人逾期未為告訴，或告訴後撤回告訴，法院即不得為有罪與否之實體審判，受訴法院應為不受理之判決；反之，非告訴乃論之罪，因涉及侵害國家或社會法益之公益層面，如犯刑法第271條之殺人罪，縱被害人未提起告訴，檢察官仍應偵查起訴，法院亦應為被告有罪之判決。因此，非告訴乃論之罪的案件，被害人雖撤回告訴，亦不影響刑事訴訟程序的進行。"
+    },
+    {
+        "query_en": "How should the period for the applicant or the person subject to the decision to appeal be calculated?",
+        "query_tw": "提審聲請人或受裁定人提起抗告之期間應如何計算？",
+        "case_id": 79,
+        "reference_law": [
+            [
+                "提審法",
+                "第10條第1項"
+            ]
+        ],
+        "reference_law_id": [
+            "118#4",
+            "118#5"
+        ],
+        "ground_truth_answer": "聲請提審雖涉及民事、刑事、少年、家事及行政等不同性質之原因事實，但對駁回提審之裁定者，抗告期間一律為10 日。"
+    },
+    {
+        "query_en": "Can victims or other legally entitled individuals appoint agents to file lawsuits on their behalf?",
+        "query_tw": "被害人或其他依法得提起告訴之人，可以委任代理人提起告訴",
+        "case_id": 80,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第236條之1"
+            ],
+            [
+                "刑事訴訟法",
+                "第271條之1"
+            ]
+        ],
+        "reference_law_id": [
+            "112#134",
+            "112#152",
+            "112#153"
+        ],
+        "ground_truth_answer": "案件無論在偵查或審判中，告訴人都可以委任代理人，而且該代理人不一定要有律師資格。但檢察官或司法警察官於偵辦案件時，或法院於審理案件時，如果認為有必要，仍然可以命告訴人本人到場。告訴人委任代理人時，應該要提出委任書狀，才合乎規定。"
+    },
+    {
+        "query_en": "If the defendant claims that their confession was not voluntary, what are the legal consequences? How should the defendant assert their rights to protect themselves?",
+        "query_tw": "被告如果主張自白不是出於自願，法律效果如何？被告應如何主張，以保護其權利？",
+        "case_id": 81,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第156條"
+            ]
+        ],
+        "reference_law_id": [
+            "112#85",
+            "112#86"
+        ],
+        "ground_truth_answer": "被告之自白，非出於強暴、脅迫、利誘、詐欺、疲勞訊問、違法羈押或其他不正之方法，且與事實相符，才能作為證據。換句話說，被告的自白，如果是出於前述任何一種不正當的方法，就不能作為證據。因此，被告如果辯稱，他的自白是遭受刑求逼供或其他不正當的方法而來，此時，法院為瞭解被告的自白是否可以作為證據，必須就這一部分先予調查。如果被告的自白是由檢察官所提出的，檢察官應該要負舉證責任，指出證明的方法，證明被告的自白是出於自由的意志。"
+    },
+    {
+        "query_en": "What is the purpose of the preparatory stage in legal proceedings?",
+        "query_tw": "準備程序階段是要做什麼事情？",
+        "case_id": 82,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第273條"
+            ],
+            [
+                "刑事訴訟法",
+                "第274條"
+            ],
+            [
+                "刑事訴訟法",
+                "第278條"
+            ]
+        ],
+        "reference_law_id": [
+            "112#155",
+            "112#156",
+            "112#157",
+            "112#158"
+        ],
+        "ground_truth_answer": "案件的審判要能夠密集、順暢地進行，在開始審判之前，自應有相當的準備，所以要有「準備程序」。在這個程序中，如果被告就檢察官起訴的犯罪事實，已經坦白承認，法院可以考慮用「簡式審判程序」或改依「簡易程序」來處理，使案件快速的終結。另外，因為調查證據是整個審判程序的核心，當事人有什麼證據要調查，要傳喚何人作證，或做什麼鑑定，或請求向其他機關調取書證，都要在這時候提出來，讓法院有所瞭解，如果認為有調查的必要，才能預留時間、妥善安排，使日後的「審判程序」順利、有次序，以節省時間，發揮審判效能。"
+    },
+    {
+        "query_en": "In what circumstances can bail be forfeited?",
+        "query_tw": "保證金在什麼情況下會被沒入？",
+        "case_id": 83,
+        "reference_law": [
+            [
+                "刑事訴訟法",
+                "第118條"
+            ]
+        ],
+        "reference_law_id": [
+            "112#62",
+            "112#63"
+        ],
+        "ground_truth_answer": "法院會下裁定將具保人的保證金沒入，原因不外乎被告經合法傳喚沒有正當理由未到庭，而法院另定庭期通知具保人偕同被告到庭，且具保人沒有偕同被告或具保人亦未到庭，法院據此認為被告已經逃匿，所以裁定將具保人之保證金沒入。"
+    },
+    {
+        "query_en": "Introduction to trademark opposition litigation and its prerequisites?",
+        "query_tw": "商標異議訴訟介紹與提起要件？",
+        "case_id": 84,
+        "reference_law": [
+            [
+                "商標法",
+                "第48條"
+            ]
+        ],
+        "reference_law_id": [
+            "569#23"
+        ],
+        "ground_truth_answer": "商標的註冊如違反商標法相關規定，任何人得依法向經濟部智慧財產局提出異議（商標法第48條）。異議人或商標權人如對審定結果不服，可於30日內向經濟部提起訴願。如果不服訴願決定，可於2個月內向智慧財產及商業法院提起行政訴訟。如仍不服行政訴訟判決結果，可於判決送達後20日內向最高行政法院提起上訴。"
+    },
+    {
+        "query_en": "Introduction to trademark assessment litigation and its prerequisites?",
+        "query_tw": "商標評定訴訟介紹與提起要件？",
+        "case_id": 85,
+        "reference_law": [
+            [
+                "商標法",
+                "第57條"
+            ]
+        ],
+        "reference_law_id": [
+            "569#25",
+            "569#26"
+        ],
+        "ground_truth_answer": "商標的註冊如違反商標法相關規定，利害關係人得依法向經濟部智慧財產局申請評定其註冊（商標法第57條）。評定人或商標權人如對審定結果不服，可於30日內向經濟部提起訴願。如果不服訴願決定，可於2個月內向智慧財產及商業法院提起行政訴訟。如仍不服行政訴訟判決結果，可於判決送達後20日內向最高行政法院提起上訴。"
+    },
+    {
+        "query_en": "Introduction to patent infringement litigation and its prerequisites?",
+        "query_tw": "專利舉發訴訟介紹與提起要件？",
+        "case_id": 86,
+        "reference_law": [
+            [
+                "專利法",
+                "第71條第1項"
+            ]
+        ],
+        "reference_law_id": [
+            "571#40",
+            "571#41"
+        ],
+        "ground_truth_answer": "專利權如有專利法第71條第1項所定事由，任何人得向經濟部智慧財產局提起舉發，主張專利無效。舉發人或專利權人如對審定結果不服，得於30日內向經濟部提起訴願。如果不服訴願決定，可於2個月內向智慧財產及商業法院提起行政訴訟。如仍不服行政訴訟判決結果，可於判決送達後20日內向最高行政法院提起上訴。"
+    },
+    {
+        "query_en": "How does the juvenile court adjudicate juvenile cases?",
+        "query_tw": "少年法院會如何裁判少年事件?",
+        "case_id": 87,
+        "reference_law": [
+            [
+                "少年事件處理法",
+                "第27條"
+            ]
+        ],
+        "reference_law_id": [
+            "120#24",
+            "120#25"
+        ],
+        "ground_truth_answer": "法院收案後，會先調查少年是否確有非行事實或曝險行為。調查後如證據不足，法院會裁定「不付審理」;如果調查結果少年確有非行行為或曝險行為需要法院處理者，除了符合少年事件處理法第 27條規定，裁定移送檢察官偵查起訴外，法官原則上是依情節的輕重、少年的狀況、需保護性、家長功能發揮之程度可能分別裁定:不付審理交付家長嚴加管教、告誡、訓誡、訓誡並予以假日生活輔導(3次以上10次以下)、保護管束(3年)、保護管束並命勞動服務(3年，勞動服務時數3小時以上50小時以下)、安置輔導（2年）、感化教育(3年)等處遇。"
+    },
+    {
+        "query_en": "If a juvenile has a prior record, will it affect their future application to military academies or for public service, including police positions?",
+        "query_tw": "少年有前案，會不會影響未來報考軍校或考公職、警職？",
+        "case_id": 88,
+        "reference_law": [
+            [
+                "少年事件處理法",
+                "第83條之1第1項",
+                "第83條之1第2項"
+            ]
+        ],
+        "reference_law_id": [
+            "120#57",
+            "120#58"
+        ],
+        "ground_truth_answer": "為了鼓勵少年自新，協助少年回歸社會，少年事件處理法第83條之1第1項、第2項有規定:少年受不付審理之轉介處分執行完畢二年後，或受保護處分或刑之行完畢或赦免三年後，或受不付審理不付保護處分之裁定確定後，視為未受各該宣告。少年法院於前項情形應通知保存少年前科紀錄及有關資料之機關、機構或團體，將少年之前科紀錄及有關資料予以塗銷。如果少年符合該規定，就不會影響其報考軍校、公職、警職問題。"
+    },
+    {
+        "query_en": "If a juvenile commits the offense of drunk driving under Article 185-3 of the Criminal Code, and is subject to protective measures by the court, are they still liable for drunk driving penalties under the provisions of the Road Traffic Management Regulations?",
+        "query_tw": "少年觸犯刑法第185條之3公共危險罪酒醉駕車，經法院裁處保護處分後，仍需依照道路交通管理處罰條例之規定處以酒駕罰鍰嗎？",
+        "case_id": 89,
+        "reference_law": [
+            [
+                "行政罰法",
+                "第26條第1項"
+            ]
+        ],
+        "reference_law_id": [
+            "956#10",
+            "956#11",
+            "956#12"
+        ],
+        "ground_truth_answer": "依行政罰法第26條之1項規定:「一行為同時觸犯刑事法律及違反行政法上之義務規定者，依刑事法律處罰之。」少事法之保護處分，實質上已對少年觸犯法律行為，給予相當之司法評價，與行政罰法第26條第1項規定之意旨相當。故有一事不二罰之適用，如少年酒駕行為依少事法規定裁定適當之保護處分時，即無須再處以罰鍰。"
+    },
+    {
+        "query_en": "What is the system of dissenting opinions in judgments? Why establish such a system of dissenting opinions in judgments?",
+        "query_tw": "何謂裁判不同意見書制度？為何要建立裁判不同意見書制度？",
+        "case_id": 90,
+        "reference_law": [
+            [
+                "行政訴訟法",
+                "第259條之1"
+            ]
+        ],
+        "reference_law_id": [
+            "69#123"
+        ],
+        "ground_truth_answer": "最高行政法院所為終審確定裁判具有統一法律見解的功能，參與評議的法官對於該裁判所表達的法律上意見，無論是多數或少數意見，均有參考價值。如參與評議的法官對於裁判主文或理由的法律上意見與多數意見不同（包括贊成裁判主文，而對其理由有補充或不同法律意見，或對於裁判主文表示一部或全部不同法律意見），已於評議時提出，經記明於評議簿，並於評議決定後三日內補具書面者，得於裁判書附記公開該不同意見"
+    },
+    {
+        "query_en": "What is meant by the 'need to ensure uniformity in judicial opinions'?",
+        "query_tw": "何謂「有確保裁判見解統一之必要」？",
+        "case_id": 91,
+        "reference_law": [
+            [
+                "行政訴訟法",
+                "第263條之4"
+            ]
+        ],
+        "reference_law_id": [
+            "69#127",
+            "69#128"
+        ],
+        "ground_truth_answer": "行政訴訟法第263條之4所稱「有確保裁判見解統一之必要」，是指本案足以影響裁判結果的法律見解，和先前裁判的法律見解產生差異，而有統一裁判見解之必要的情況。包括最高行政法院未經統一的裁判相互間、相同或不同高等行政法院高等行政訴訟庭第二審裁判相互間或最高行政法院未經統一之先前裁判與高等行政法院高等行政訴訟庭第二審裁判相互間有法律見解的積極歧異，而有確保裁判見解統一之必要，即應以裁定移送最高行政法院裁判。"
+    }
+]
