@@ -3,7 +3,7 @@ LawFactsQA-TW is a frequently asked questions (FAQ) dataset for statutory articl
 
 ## Data Example
 **Corpus:**
-```json=
+```json
 {
         "id": "1187#5",
         "title": "外國專業人才延攬及僱用法",
@@ -11,7 +11,7 @@ LawFactsQA-TW is a frequently asked questions (FAQ) dataset for statutory articl
     }
 ```
 **QA:**
-```json=
+```json
     {
         "query_en": "Are foreign nationals who hold permanent residency or have naturalized to obtain Taiwanese citizenship exempt from applying for a work permit?",
         "query_tw": "取得永久居留外國人或歸化取得我國國籍之外國人，是否不須申請工作許可？",
