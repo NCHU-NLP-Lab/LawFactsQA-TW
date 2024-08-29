@@ -34,3 +34,6 @@ LawFactsQA-TW is a frequently asked questions (FAQ) dataset for statutory articl
         "ground_truth_answer": "一、依據外國專業人才延攬及僱用法第7條規定，外國專業人才、外國特定專業人才及外國高級專業人才，其本人、配偶、未成年子女及因身心障礙無法自理生活之成年子女，經許可永久居留者，在我國從事工作，不須向勞動部或教育部申請許可。因前開法令為特別法，故符合前開條件者，無須按就業服務法第51條規定申請個人工作許可。二、依據外國專業人才延攬及僱用法第25條規定，經歸化取得我國國籍且兼具外國國籍而未在我國設有戶籍，並持外國護照或我國護照入國從事專業工作或尋職者，得免申請工作許可。因前開法令為特別法，故符合前開條件者，無須按就業服務法第79條規定辦理。"
     }
 ```
+
+## Source
+[Laws and Regulations Database of The Republic of China(Taiwan)](https://law.moj.gov.tw/ENG/Index.aspx)
