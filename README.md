@@ -46,3 +46,5 @@ A potential use case for this dataset is for foreign nationals in Taiwan who may
 
 ## Source
 [Laws and Regulations Database of The Republic of China(Taiwan)](https://law.moj.gov.tw/ENG/Index.aspx)
+
+If you find this dataset works for you, please cite the paper "Wang et al. A Cross-Lingual Statutory Article Retrieval Dataset for Taiwan Legal Studies, ROCLING 2024"
