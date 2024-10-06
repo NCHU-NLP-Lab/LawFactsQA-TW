@@ -44,6 +44,18 @@ A potential use case for this dataset is for foreign nationals in Taiwan who may
     }
 ```
 
+## Baselines
+- LLM-Augmented Retrieval
+### Answer Expansion
+我們透過 LLM 直接生成查詢的答案，這些答案雖然可能不完全正確，但我們將它們用來進行檢索，類似於查詢擴展 (query expansion) 的概念，藉此提升正確法條檢索的準確性。
+
+### Statutory Article Expansion
+我們引導 LLM 生成可以回答查詢的法條內容，雖然生成的內容可能不完全正確，但這些法條可用於檢索，進一步提升找到正確法條的精確度。
+
+### LLM as Reranker
+我們使用 LLM 重新排序檢索結果。LLM 會重新評估檢索到的法條，將不相關的結果替換為更符合查詢的法條，直到所有結果都與查詢相符。
+
+
 ## Source
 [Laws and Regulations Database of The Republic of China(Taiwan)](https://law.moj.gov.tw/ENG/Index.aspx)
 
