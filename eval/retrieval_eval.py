@@ -45,9 +45,6 @@ def eval(test_dir,topks,save_dir):
             if file.endswith(".json"):
                 json_file_paths.append(os.path.join(root, file))
     print(json_file_paths)
-    ### refid
-    # with open("../../data/QA_0325.json", "r", encoding="utf-8") as json_file:
-    #     gt_answer = json.load(json_file)
 
     for json_file_path in json_file_paths:
         # get file name
@@ -109,10 +106,10 @@ def eval(test_dir,topks,save_dir):
 
 
 if __name__ == "__main__":
-    search_res_dir="../embedding_search/result_final"
+    search_res_dir="search_result/"
     # "../embedding_search/clir_hyde"
     save_dir="eval_result_all/"
-    # Legal_RAG/Retrieval/hypothesis_doc_gen/hyp_doc_0410
+  
 
     for topk_v in  topk_list:
         eval(search_res_dir,topk_v,save_dir)
