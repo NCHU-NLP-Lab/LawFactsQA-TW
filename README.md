@@ -1,5 +1,5 @@
 # LawFactsQA-TW
-
+Paper:[link](https://arxiv.org/abs/2410.11450)
 LawFactsQA-TW 是一個跨語言的法條檢索資料集，專門為解決多語言環境下的法律資訊檢索問題而設計。這個資料集的特點在於，它包含口語化的法律查詢，每個查詢都包括英文問題、對應的中文翻譯、相關的法律條文，以及查詢的正確答案。資料集涵蓋台灣的民法、刑法以及行政法規，提供了台灣法律體系的完整範圍。
 
 ```範例查詢：取得「度假打工」簽證來臺的外國人，雇主仍需要向本部申請聘僱許可嗎？ If a foreigner comes to Taiwan on a working holiday visa, does the employer still need to apply for a work permit from the Ministry?```
